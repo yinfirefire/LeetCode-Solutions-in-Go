@@ -7,7 +7,7 @@ var mem map[string]int
 func palindromePartition(s string, k int) int {
 	mem = make(map[string]int)
 	dp := [100][101]int{}
-	for idx, _ := range s {
+	for idx := range s {
 		dp[0][idx+1] = helper(s[0 : idx+1])
 	}
 
