@@ -1,6 +1,6 @@
 # Go Solution for LeetCode
 
-# | Name | Type |
+ No. | Name | Type |
 --- | --- | ---
 1278 | [Palindrome Partitioning III][1278] | DP
 
