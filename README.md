@@ -1,4 +1,4 @@
-* Go Solution for LeetCode
+# Go Solution for LeetCode
 
 # | Name | Type |
 --- | --- | ---
