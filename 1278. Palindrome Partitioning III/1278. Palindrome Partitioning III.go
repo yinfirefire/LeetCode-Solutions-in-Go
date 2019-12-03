@@ -15,11 +15,13 @@ func palindromePartition(s string, k int) int {
 		for j := i; j <= len(s); j++ {
 			cur := math.MaxInt32
 			for p := j; p >= i; p-- {
+				//cut at p-1
 				cur = min(cur, dp[i-1][p-1]+helper(s[p-1:j]))
 			}
 			dp[i][j] = cur
 		}
 	}
+	//dp[i][j] = the min steps to cut into i palindromes with length = j
 	return dp[k-1][len(s)]
 }
 
