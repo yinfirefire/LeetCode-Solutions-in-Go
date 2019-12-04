@@ -1,6 +1,8 @@
 # Go Solution for LeetCode
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Go](https://img.shields.io/badge/Go-1.12-blue.svg)](https://golang.org)
+
 
  No. | Name | Type |
 --- | --- | ---
