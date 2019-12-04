@@ -47,6 +47,7 @@ func minPushBox(grid [][]byte) int {
 			sy := s[1] + mv[i+1]
 			if sx >= 0 && sx < m && sy >= 0 && sy < n && grid[sx][sy] != '#' {
 				if sx == b[0] && sy == b[1] {
+					//if the store keeper can move to the box position, check if the box can move one step further
 					nbx := b[0] + mv[i]
 					nby := b[1] + mv[i+1]
 					if nbx >= 0 && nby >= 0 && nbx < m && nby < n && grid[nbx][nby] != '#' {
@@ -58,6 +59,7 @@ func minPushBox(grid [][]byte) int {
 						mem[newpos] = mem[cur] + 1
 					}
 				} else {
+					//the store keeper move to other position, the number of steps shall not change
 					newpos := encode(b[0], b[1], sx, sy)
 					if val, ok := mem[newpos]; ok && val <= mem[cur] {
 						continue
