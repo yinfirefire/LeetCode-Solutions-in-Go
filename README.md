@@ -6,7 +6,7 @@
 
  No. | Name | Type |
 --- | --- | ---
-1278 | [Palindrome Partitioning III][1278] | DP
+1278 | [Palindrome Partitioning III][1278] *| DP
 132 | [Palindrome Partitioning II][132] | DP
 1218 | [Longest Arithmetic Subsequence of Given Difference][1218] | Hashtable
 1175 | [Prime Arrangements][1175] | Math
@@ -14,14 +14,14 @@
 1093 | [Statistics from a Large Sample][1093] | Math
 1086 | [High Five][1086] | Comparator
 1009 | [Complement of Base 10 Integer][1009] | Bit Manipulation
-1263 | [Minimum Moves to Move a Box to Their Target Loacation][1263] | BFS 
+1263 | [Minimum Moves to Move a Box to Their Target Loacation][1263] *| BFS 
 994 | [Rotting Oranges][994] | BFS
-913 | [Cat and Mouses][913] | BFS
-864 | [Shortest Path to Get All Keys][864] | BFS
-847 | [Shortest Path Visiting All Nodes][847] | BFS
+913 | [Cat and Mouses][913] *| BFS
+864 | [Shortest Path to Get All Keys][864] *| BFS
+847 | [Shortest Path Visiting All Nodes][847] *| BFS
 130 | [Surrounded Regions][130] | BFS
 127 | [Word Ladder][127] | BFS
-126 | [Word Ladder II][126] | BFS
+126 | [Word Ladder II][126] *| BFS
 287 | [Find the Duplicate Number][287] | Binary Search By Value
 131 | [Palindrome Partitioning][131] | BackTrack
 
@@ -46,4 +46,4 @@
 [131]: ./131.%20Palindrome%20Partitioning/
 [132]: ./132.%20Palindrome%20Partitioning%20II/
 
-4
+* Nice Question
