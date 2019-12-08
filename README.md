@@ -9,6 +9,7 @@
 1278 | [Palindrome Partitioning III][1278] *| DP
 132 | [Palindrome Partitioning II][132] | DP
 1218 | [Longest Arithmetic Subsequence of Given Difference][1218] | Hashtable
+149 | [Max Points on a Line][149] | Hashtable
 1175 | [Prime Arrangements][1175] | Math
 1103 | [Distribute Candies to People][1103] | Math
 1093 | [Statistics from a Large Sample][1093] | Math
@@ -31,6 +32,7 @@
 [1278]: ./1278.%20Palindrome%20Partitioning%20III/
 [1263]: ./1263.%20Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location/
 [1218]: ./1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/
+[149]: ./149.%20Max%20Points%20on%20a%20Line/
 [1175]: ./1175.%20Prime%20Arrangements/
 [1103]: ./1103.%20Distribute%20Candies%20to%20People/
 [1093]: ./1093.%20Statistics%20from%20a%20Large%20Sample/
