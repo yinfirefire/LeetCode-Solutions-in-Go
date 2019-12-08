@@ -14,6 +14,7 @@
 1093 | [Statistics from a Large Sample][1093] | Math
 1086 | [High Five][1086] | Comparator
 1009 | [Complement of Base 10 Integer][1009] | Bit Manipulation
+1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix][1284] | BFS
 1263 | [Minimum Moves to Move a Box to Their Target Loacation][1263] *| BFS 
 994 | [Rotting Oranges][994] | BFS
 913 | [Cat and Mouses][913] *| BFS
@@ -26,7 +27,7 @@
 131 | [Palindrome Partitioning][131] | BackTrack
 
 
-
+[1284]: ./1284.%20Minimum%20Number%20of%20Flips%20to%20Convert%20Binary%20Matrix%20to%20Zero%20Matrix/
 [1278]: ./1278.%20Palindrome%20Partitioning%20III/
 [1263]: ./1263.%20Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location/
 [1218]: ./1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/
