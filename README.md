@@ -13,6 +13,7 @@
 1175 | [Prime Arrangements][1175] | Math
 1103 | [Distribute Candies to People][1103] | Math
 1093 | [Statistics from a Large Sample][1093] | Math
+166 | [Fraction to Recurring Decimal][166] | Math
 1086 | [High Five][1086] | Comparator
 1009 | [Complement of Base 10 Integer][1009] | Bit Manipulation
 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix][1284] | BFS
@@ -46,6 +47,7 @@
 [127]: ./127.%20Word%20Ladder/
 [126]: ./126.%20Word%20Ladder%20II/
 [287]: ./287.%20Find%20the%20Duplicate%20Number/
+[166]: ./166.%20Fraction%20to%20Recurring%20Decimal/
 [131]: ./131.%20Palindrome%20Partitioning/
 [132]: ./132.%20Palindrome%20Partitioning%20II/
 
