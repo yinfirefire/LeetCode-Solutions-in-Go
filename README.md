@@ -17,6 +17,7 @@
 1093 | [Statistics from a Large Sample][1093] | Math
 335 | [Self Crossing][335] | Math
 233 | [Number of Digit One][233] | Math
+202 | [Happy Number][202] | Math
 166 | [Fraction to Recurring Decimal][166] | Math
 1086 | [High Five][1086] | Comparator
 1009 | [Complement of Base 10 Integer][1009] | Bit Manipulation
@@ -29,6 +30,7 @@
 130 | [Surrounded Regions][130] | BFS
 127 | [Word Ladder][127] | BFS
 126 | [Word Ladder II][126] *| BFS
+744 | [Find Smallest Letter Greater Than Target][744] | Binary Search
 287 | [Find the Duplicate Number][287] | Binary Search By Value
 131 | [Palindrome Partitioning][131] | BackTrack
 
@@ -49,12 +51,14 @@
 [913]: ./913.%20Cat%20and%20Mouse/
 [864]: ./864.%20Shortest%20Path%20to%20Get%20All%20Keys/
 [847]: ./847.%20Shortest%20Path%20Visiting%20All%20Nodes/
+[744]: ./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/
 [130]: ./130.%20Surrounded%20Regions/
 [127]: ./127.%20Word%20Ladder/
 [126]: ./126.%20Word%20Ladder%20II/
 [335]: ./335.%20Self%20Crossing/
 [287]: ./287.%20Find%20the%20Duplicate%20Number/
 [233]: ./233.%20Number%20of%20Digit%20One/
+[202]: ./202.%20Happy%20Number/
 [166]: ./166.%20Fraction%20to%20Recurring%20Decimal/
 [131]: ./131.%20Palindrome%20Partitioning/
 [132]: ./132.%20Palindrome%20Partitioning%20II/
