@@ -8,11 +8,14 @@
 --- | --- | ---
 1278 | [Palindrome Partitioning III][1278] *| DP
 132 | [Palindrome Partitioning II][132] | DP
+1066 | [Campus Bikes II][1066] *| DP
+1057 | [Campus Bikes][1057] | Sort
 1218 | [Longest Arithmetic Subsequence of Given Difference][1218] | Hashtable
 149 | [Max Points on a Line][149] | Hashtable
 1175 | [Prime Arrangements][1175] | Math
 1103 | [Distribute Candies to People][1103] | Math
 1093 | [Statistics from a Large Sample][1093] | Math
+335 | [Self Crossing][335] | Math
 233 | [Number of Digit One][233] | Math
 166 | [Fraction to Recurring Decimal][166] | Math
 1086 | [High Five][1086] | Comparator
@@ -37,6 +40,8 @@
 [149]: ./149.%20Max%20Points%20on%20a%20Line/
 [1175]: ./1175.%20Prime%20Arrangements/
 [1103]: ./1103.%20Distribute%20Candies%20to%20People/
+[1066]: ./1066.%20Campus%20Bikes%20II/
+[1057]: ./1057.%20Campus%20Bikes/
 [1093]: ./1093.%20Statistics%20from%20a%20Large%20Sample/
 [1009]: ./1009.%20Complement%20of%20Base%2010%20Integer/
 [1086]: ./1086.%20High%20Five/
@@ -47,6 +52,7 @@
 [130]: ./130.%20Surrounded%20Regions/
 [127]: ./127.%20Word%20Ladder/
 [126]: ./126.%20Word%20Ladder%20II/
+[335]: ./335.%20Self%20Crossing/
 [287]: ./287.%20Find%20the%20Duplicate%20Number/
 [233]: ./233.%20Number%20of%20Digit%20One/
 [166]: ./166.%20Fraction%20to%20Recurring%20Decimal/
