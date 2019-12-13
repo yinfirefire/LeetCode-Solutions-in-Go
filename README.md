@@ -15,6 +15,7 @@
 1175 | [Prime Arrangements][1175] | Math
 1103 | [Distribute Candies to People][1103] | Math
 1093 | [Statistics from a Large Sample][1093] | Math
+365 | [Water and Jug Problem][365] | Math
 335 | [Self Crossing][335] | Math
 233 | [Number of Digit One][233] | Math
 202 | [Happy Number][202] | Math
@@ -55,6 +56,7 @@
 [130]: ./130.%20Surrounded%20Regions/
 [127]: ./127.%20Word%20Ladder/
 [126]: ./126.%20Word%20Ladder%20II/
+[365]: ./365.%20Water%20and%20Jug%20Problem/
 [335]: ./335.%20Self%20Crossing/
 [287]: ./287.%20Find%20the%20Duplicate%20Number/
 [233]: ./233.%20Number%20of%20Digit%20One/
