@@ -15,6 +15,7 @@
 1175 | [Prime Arrangements][1175] | Math
 1103 | [Distribute Candies to People][1103] | Math
 1093 | [Statistics from a Large Sample][1093] | Math
+670 | [Maximum Swap][670] | Math
 365 | [Water and Jug Problem][365] | Math
 335 | [Self Crossing][335] | Math
 233 | [Number of Digit One][233] | Math
@@ -34,6 +35,7 @@
 744 | [Find Smallest Letter Greater Than Target][744] | Binary Search
 287 | [Find the Duplicate Number][287] | Binary Search By Value
 131 | [Palindrome Partitioning][131] | BackTrack
+206 | [Reverse LinkedList][206] | Linked List
 23 | [Merge K Sorted Lists][23] | Linked List
 
 
@@ -54,6 +56,7 @@
 [864]: ./864.%20Shortest%20Path%20to%20Get%20All%20Keys/
 [847]: ./847.%20Shortest%20Path%20Visiting%20All%20Nodes/
 [744]: ./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/
+[670]: ./670.%20Maximum%20Swap/
 [130]: ./130.%20Surrounded%20Regions/
 [127]: ./127.%20Word%20Ladder/
 [126]: ./126.%20Word%20Ladder%20II/
@@ -65,5 +68,6 @@
 [166]: ./166.%20Fraction%20to%20Recurring%20Decimal/
 [131]: ./131.%20Palindrome%20Partitioning/
 [132]: ./132.%20Palindrome%20Partitioning%20II/
+[23]: ./23.%20Merge%20k%20Sorted%20Lists/
 
 * Nice Question
