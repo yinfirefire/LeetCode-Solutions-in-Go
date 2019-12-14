@@ -34,6 +34,7 @@
 744 | [Find Smallest Letter Greater Than Target][744] | Binary Search
 287 | [Find the Duplicate Number][287] | Binary Search By Value
 131 | [Palindrome Partitioning][131] | BackTrack
+23 | [Merge K Sorted Lists][23] | Linked List
 
 
 [1284]: ./1284.%20Minimum%20Number%20of%20Flips%20to%20Convert%20Binary%20Matrix%20to%20Zero%20Matrix/
