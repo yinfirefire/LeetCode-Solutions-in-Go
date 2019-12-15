@@ -12,6 +12,7 @@
 1057 | [Campus Bikes][1057] | Sort
 1218 | [Longest Arithmetic Subsequence of Given Difference][1218] | Hashtable
 149 | [Max Points on a Line][149] | Hashtable
+1291 | [Sequential Digits][1291] | Math
 1175 | [Prime Arrangements][1175] | Math
 1103 | [Distribute Candies to People][1103] | Math
 1093 | [Statistics from a Large Sample][1093] | Math
@@ -35,10 +36,11 @@
 744 | [Find Smallest Letter Greater Than Target][744] | Binary Search
 287 | [Find the Duplicate Number][287] | Binary Search By Value
 131 | [Palindrome Partitioning][131] | BackTrack
+369 | [Plus One Linked List][369] | Linked List
 206 | [Reverse LinkedList][206] | Linked List
 23 | [Merge K Sorted Lists][23] | Linked List
 
-
+[1291]: ./1291.%20Sequential%20Digits/
 [1284]: ./1284.%20Minimum%20Number%20of%20Flips%20to%20Convert%20Binary%20Matrix%20to%20Zero%20Matrix/
 [1278]: ./1278.%20Palindrome%20Partitioning%20III/
 [1263]: ./1263.%20Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location/
@@ -60,10 +62,12 @@
 [130]: ./130.%20Surrounded%20Regions/
 [127]: ./127.%20Word%20Ladder/
 [126]: ./126.%20Word%20Ladder%20II/
+[369]: ./369.%20Plus%20One%20Linked%20List/
 [365]: ./365.%20Water%20and%20Jug%20Problem/
 [335]: ./335.%20Self%20Crossing/
 [287]: ./287.%20Find%20the%20Duplicate%20Number/
 [233]: ./233.%20Number%20of%20Digit%20One/
+[206]: ./206.%20Reverse%20Linked%20List/
 [202]: ./202.%20Happy%20Number/
 [166]: ./166.%20Fraction%20to%20Recurring%20Decimal/
 [131]: ./131.%20Palindrome%20Partitioning/
