@@ -24,6 +24,7 @@
 166 | [Fraction to Recurring Decimal][166] | Math
 1086 | [High Five][1086] | Comparator
 1009 | [Complement of Base 10 Integer][1009] | Bit Manipulation
+1293 | [Shortest Path in a Grid with Obstacles Elimination][1293] | BFS
 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix][1284] | BFS
 1263 | [Minimum Moves to Move a Box to Their Target Loacation][1263] *| BFS 
 994 | [Rotting Oranges][994] | BFS
@@ -33,6 +34,7 @@
 130 | [Surrounded Regions][130] | BFS
 127 | [Word Ladder][127] | BFS
 126 | [Word Ladder II][126] *| BFS
+1292| [Maximum Side Length of a Square with Sum Less than or Equal to Threshold][1292] | Binary Search
 744 | [Find Smallest Letter Greater Than Target][744] | Binary Search
 287 | [Find the Duplicate Number][287] | Binary Search By Value
 131 | [Palindrome Partitioning][131] | BackTrack
@@ -40,6 +42,8 @@
 206 | [Reverse LinkedList][206] | Linked List
 23 | [Merge K Sorted Lists][23] | Linked List
 
+[1293]: ./1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination/
+[1292]: ./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/
 [1291]: ./1291.%20Sequential%20Digits/
 [1284]: ./1284.%20Minimum%20Number%20of%20Flips%20to%20Convert%20Binary%20Matrix%20to%20Zero%20Matrix/
 [1278]: ./1278.%20Palindrome%20Partitioning%20III/
