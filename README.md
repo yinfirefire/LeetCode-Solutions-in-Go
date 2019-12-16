@@ -3,6 +3,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Go](https://img.shields.io/badge/Go-1.12-blue.svg)](https://golang.org)
 
+Update at least one problem each day from https://docs.google.com/spreadsheets/d/1kBGyRsSdbGDu7DzjQcC-UkZjZERdrP8-_QyVGXHSrB8/edit#gid=0
 
  No. | Name | Type |
 --- | --- | ---
@@ -11,11 +12,12 @@
 1066 | [Campus Bikes II][1066] *| DP
 1057 | [Campus Bikes][1057] | Sort
 1218 | [Longest Arithmetic Subsequence of Given Difference][1218] | Hashtable
-149 | [Max Points on a Line][149] | Hashtable
+149 | [Max Points on a Line][149] *| Hashtable
 1291 | [Sequential Digits][1291] | Math
 1175 | [Prime Arrangements][1175] | Math
 1103 | [Distribute Candies to People][1103] | Math
 1093 | [Statistics from a Large Sample][1093] | Math
+780 | [Reaching Points][780] | Math
 670 | [Maximum Swap][670] | Math
 365 | [Water and Jug Problem][365] | Math
 335 | [Self Crossing][335] | Math
@@ -61,6 +63,7 @@
 [913]: ./913.%20Cat%20and%20Mouse/
 [864]: ./864.%20Shortest%20Path%20to%20Get%20All%20Keys/
 [847]: ./847.%20Shortest%20Path%20Visiting%20All%20Nodes/
+[780]: ./780.%20Reaching%20Points/
 [744]: ./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/
 [670]: ./670.%20Maximum%20Swap/
 [130]: ./130.%20Surrounded%20Regions/
