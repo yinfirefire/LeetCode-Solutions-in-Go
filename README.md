@@ -17,6 +17,7 @@ Update at least one problem each day from https://docs.google.com/spreadsheets/d
 1175 | [Prime Arrangements][1175] | Math
 1103 | [Distribute Candies to People][1103] | Math
 1093 | [Statistics from a Large Sample][1093] | Math
+858 | [Mirror Reflection][858] | Math
 780 | [Reaching Points][780] | Math
 670 | [Maximum Swap][670] | Math
 365 | [Water and Jug Problem][365] | Math
@@ -61,6 +62,7 @@ Update at least one problem each day from https://docs.google.com/spreadsheets/d
 [1086]: ./1086.%20High%20Five/
 [994]: ./994.%20Rotting%20Oranges/
 [913]: ./913.%20Cat%20and%20Mouse/
+[858]: ./858.%20Mirror%20Reflection/
 [864]: ./864.%20Shortest%20Path%20to%20Get%20All%20Keys/
 [847]: ./847.%20Shortest%20Path%20Visiting%20All%20Nodes/
 [780]: ./780.%20Reaching%20Points/
