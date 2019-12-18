@@ -5,6 +5,8 @@
 
 Update at least one problem each day from https://docs.google.com/spreadsheets/d/1kBGyRsSdbGDu7DzjQcC-UkZjZERdrP8-_QyVGXHSrB8/edit#gid=0
 
+Update every weekend for LeetCode contest.
+
  No. | Name | Type |
 --- | --- | ---
 1278 | [Palindrome Partitioning III][1278] *| DP
