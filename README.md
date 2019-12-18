@@ -17,7 +17,9 @@ Update at least one problem each day from https://docs.google.com/spreadsheets/d
 1175 | [Prime Arrangements][1175] | Math
 1103 | [Distribute Candies to People][1103] | Math
 1093 | [Statistics from a Large Sample][1093] | Math
-858 | [Mirror Reflection][858] | Math
+1040 | [Moving Stones Until Consecutive II][1040] | Math
+1033 | [Moving Stones Until Consecutive][1033] | Math
+858 | [Mirror Reflection][858] *| Math
 780 | [Reaching Points][780] | Math
 670 | [Maximum Swap][670] | Math
 365 | [Water and Jug Problem][365] | Math
@@ -58,6 +60,8 @@ Update at least one problem each day from https://docs.google.com/spreadsheets/d
 [1066]: ./1066.%20Campus%20Bikes%20II/
 [1057]: ./1057.%20Campus%20Bikes/
 [1093]: ./1093.%20Statistics%20from%20a%20Large%20Sample/
+[1040]: ./1040.%20Moving%20Stones%20Until%20Consecutive%20II/
+[1033]: ./1033.%20Moving%20Stones%20Until%20Consecutive/
 [1009]: ./1009.%20Complement%20of%20Base%2010%20Integer/
 [1086]: ./1086.%20High%20Five/
 [994]: ./994.%20Rotting%20Oranges/
