@@ -91,6 +91,6 @@ Update every weekend for LeetCode contest.
 [132]: ./Problems/132.%20Palindrome%20Partitioning%20II/
 [23]: ./Problems/23.%20Merge%20k%20Sorted%20Lists/
 [972]: ./Problems/972.%20Equal%20Rational%20Numbers/
-[1071]: ./Problems/1017.%20Convert%20to%20Base%20-2/
+[1017]: ./Problems/1017.%20Convert%20to%20Base%20-2/
 
 * Nice Question
