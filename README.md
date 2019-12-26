@@ -16,6 +16,7 @@ Update every weekend for LeetCode contest.
 1218 | [Longest Arithmetic Subsequence of Given Difference][1218] | Hashtable
 149 | [Max Points on a Line][149] *| Hashtable
 1291 | [Sequential Digits][1291] | Math
+1238 | [Circular Permutation in Binary Representation][1238] | Math
 1175 | [Prime Arrangements][1175] | Math
 1103 | [Distribute Candies to People][1103] | Math
 1093 | [Statistics from a Large Sample][1093] | Math
@@ -32,7 +33,7 @@ Update every weekend for LeetCode contest.
 233 | [Number of Digit One][233] | Math
 202 | [Happy Number][202] | Math
 166 | [Fraction to Recurring Decimal][166] | Math
-89 | [Gray Code][89] | Math
+89 | [Gray Code][89] *| Math
 1086 | [High Five][1086] | Comparator
 1009 | [Complement of Base 10 Integer][1009] | Bit Manipulation
 1293 | [Shortest Path in a Grid with Obstacles Elimination][1293] | BFS
@@ -52,6 +53,7 @@ Update every weekend for LeetCode contest.
 369 | [Plus One Linked List][369] | Linked List
 206 | [Reverse LinkedList][206] | Linked List
 23 | [Merge K Sorted Lists][23] | Linked List
+189 | [Rotate Array][189] | Array
 
 [1293]: ./Problems/1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination/
 [1292]: ./Problems/1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/
@@ -96,5 +98,7 @@ Update every weekend for LeetCode contest.
 [1017]: ./Problems/1017.%20Convert%20to%20Base%20-2/
 [1073]: ./Problems/1073.%20Adding%20Two%20Negabinary%20Numbers/
 [89]: ./Problems/89.%20Gray%20Code/
+[189]: ./Problems/189.%20Rotate%20Array/
+[1238]: ./Problems/1238.%20Circular%20Permutation%20in%20Binary%20Representation/
 
 * Nice Question
