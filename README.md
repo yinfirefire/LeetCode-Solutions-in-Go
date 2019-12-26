@@ -22,6 +22,7 @@ Update every weekend for LeetCode contest.
 1040 | [Moving Stones Until Consecutive II][1040] | Math
 1033 | [Moving Stones Until Consecutive][1033] | Math
 1017 | [Convert to Base -2][1017] *| Math
+1073 | [Adding Two Negabinary Numbers][1073] *| Math
 972 | [Equal Rational Numbers][972] | Math
 858 | [Mirror Reflection][858] *| Math
 780 | [Reaching Points][780] | Math
@@ -31,6 +32,7 @@ Update every weekend for LeetCode contest.
 233 | [Number of Digit One][233] | Math
 202 | [Happy Number][202] | Math
 166 | [Fraction to Recurring Decimal][166] | Math
+89 | [Gray Code][89] | Math
 1086 | [High Five][1086] | Comparator
 1009 | [Complement of Base 10 Integer][1009] | Bit Manipulation
 1293 | [Shortest Path in a Grid with Obstacles Elimination][1293] | BFS
@@ -92,5 +94,7 @@ Update every weekend for LeetCode contest.
 [23]: ./Problems/23.%20Merge%20k%20Sorted%20Lists/
 [972]: ./Problems/972.%20Equal%20Rational%20Numbers/
 [1017]: ./Problems/1017.%20Convert%20to%20Base%20-2/
+[1073]: ./Problems/1073.%20Adding%20Two%20Negabinary%20Numbers/
+[89]: ./Problems/89.%20Gray%20Code/
 
 * Nice Question
