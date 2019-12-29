@@ -24,6 +24,7 @@ Update every weekend for LeetCode contest.
 1033 | [Moving Stones Until Consecutive][1033] | Math
 1017 | [Convert to Base -2][1017] *| Math
 1073 | [Adding Two Negabinary Numbers][1073] *| Math
+991 | [Broken Calculator][991] | Math
 972 | [Equal Rational Numbers][972] | Math
 858 | [Mirror Reflection][858] *| Math
 780 | [Reaching Points][780] | Math
@@ -100,5 +101,6 @@ Update every weekend for LeetCode contest.
 [89]: ./Problems/89.%20Gray%20Code/
 [189]: ./Problems/189.%20Rotate%20Array/
 [1238]: ./Problems/1238.%20Circular%20Permutation%20in%20Binary%20Representation/
+[991]: ./Problems/991.%20Broken%20Calculator/
 
 * Nice Question
