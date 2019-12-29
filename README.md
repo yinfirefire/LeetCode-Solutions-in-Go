@@ -50,7 +50,9 @@ Update every weekend for LeetCode contest.
 1292| [Maximum Side Length of a Square with Sum Less than or Equal to Threshold][1292] | Binary Search
 744 | [Find Smallest Letter Greater Than Target][744] | Binary Search
 287 | [Find the Duplicate Number][287] | Binary Search By Value
+1300 | [Sum of Mutated Array Closest to Target][1300] *| Binary Search By Value
 131 | [Palindrome Partitioning][131] | BackTrack
+1307 | [Verbal Arithmetic Puzzle][1307] *| BackTrack
 369 | [Plus One Linked List][369] | Linked List
 206 | [Reverse LinkedList][206] | Linked List
 23 | [Merge K Sorted Lists][23] | Linked List
@@ -102,5 +104,6 @@ Update every weekend for LeetCode contest.
 [189]: ./Problems/189.%20Rotate%20Array/
 [1238]: ./Problems/1238.%20Circular%20Permutation%20in%20Binary%20Representation/
 [991]: ./Problems/991.%20Broken%20Calculator/
+[1300]: ./Problems/1300.%20Sum%20of%20Mutated%20Array%20Closest%20to%20Target/
 
 * Nice Question
