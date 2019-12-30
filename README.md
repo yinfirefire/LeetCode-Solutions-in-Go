@@ -25,6 +25,7 @@ Update every weekend for LeetCode contest.
 1017 | [Convert to Base -2][1017] *| Math
 1073 | [Adding Two Negabinary Numbers][1073] *| Math
 991 | [Broken Calculator][991] | Math
+984 | [String Without AAA or BBB][984] *| Math, Greedy
 972 | [Equal Rational Numbers][972] | Math
 858 | [Mirror Reflection][858] *| Math
 780 | [Reaching Points][780] | Math
@@ -57,6 +58,7 @@ Update every weekend for LeetCode contest.
 206 | [Reverse LinkedList][206] | Linked List
 23 | [Merge K Sorted Lists][23] | Linked List
 189 | [Rotate Array][189] | Array
+
 
 [1293]: ./Problems/1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination/
 [1292]: ./Problems/1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/
@@ -105,5 +107,6 @@ Update every weekend for LeetCode contest.
 [1238]: ./Problems/1238.%20Circular%20Permutation%20in%20Binary%20Representation/
 [991]: ./Problems/991.%20Broken%20Calculator/
 [1300]: ./Problems/1300.%20Sum%20of%20Mutated%20Array%20Closest%20to%20Target/
+[984]: ./Problems/984.%20String%20Without%20AAA%20or%20BBB/
 
 * Nice Question
