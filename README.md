@@ -39,6 +39,7 @@ Update every weekend for LeetCode contest.
 89 | [Gray Code][89] *| Math
 1086 | [High Five][1086] | Comparator
 1009 | [Complement of Base 10 Integer][1009] | Bit Manipulation
+1298 | [Maximum Candies You Can Get from Boxes][1298] | BFS
 1293 | [Shortest Path in a Grid with Obstacles Elimination][1293] | BFS
 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix][1284] | BFS
 1263 | [Minimum Moves to Move a Box to Their Target Loacation][1263] *| BFS 
@@ -61,6 +62,7 @@ Update every weekend for LeetCode contest.
 189 | [Rotate Array][189] | Array
 1297 | [Maximum Number of Occurrences of a Substring][1297] | Sliding Window
 
+[1298]: ./Problems/1298.%20Maximum%20Candies%20You%20Can%20Get%20from%20Boxes/
 [1293]: ./Problems/1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination/
 [1292]: ./Problems/1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/
 [1291]: ./Problems/1291.%20Sequential%20Digits/
