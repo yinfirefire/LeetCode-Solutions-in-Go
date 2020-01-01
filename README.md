@@ -9,6 +9,7 @@ Update every weekend for LeetCode contest.
 
  No. | Name | Type |
 --- | --- | ---
+1301 | [Number of Paths with Max Score][1301] | DP
 1278 | [Palindrome Partitioning III][1278] *| DP
 132 | [Palindrome Partitioning II][132] | DP
 1066 | [Campus Bikes II][1066] *| DP
@@ -113,5 +114,6 @@ Update every weekend for LeetCode contest.
 [984]: ./Problems/984.%20String%20Without%20AAA%20or%20BBB/
 [1015]: ./Problems/1015.%20Smallest%20Integer%20Divisible%20by%20K/
 [1297]: ./Problems/1297.%20Maximum%20Number%20of%20Occurrences%20of%20a%20Substring/
+[1301]: ./Problems/1301.%20Number%20of%20Paths%20with%20Max%20Score/
 
 * Nice Question
