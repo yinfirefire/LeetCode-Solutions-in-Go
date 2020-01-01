@@ -62,6 +62,7 @@ Update every weekend for LeetCode contest.
 23 | [Merge K Sorted Lists][23] | Linked List
 189 | [Rotate Array][189] | Array
 1297 | [Maximum Number of Occurrences of a Substring][1297] | Sliding Window
+1151 | [Minimum Swaps to Group All 1's Together][1151] | Sliding Window
 
 [1298]: ./Problems/1298.%20Maximum%20Candies%20You%20Can%20Get%20from%20Boxes/
 [1293]: ./Problems/1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination/
@@ -115,5 +116,6 @@ Update every weekend for LeetCode contest.
 [1015]: ./Problems/1015.%20Smallest%20Integer%20Divisible%20by%20K/
 [1297]: ./Problems/1297.%20Maximum%20Number%20of%20Occurrences%20of%20a%20Substring/
 [1301]: ./Problems/1301.%20Number%20of%20Paths%20with%20Max%20Score/
+[1151]: ./Problems/1151.%20Minimum%20Swaps%20to%20Group%20All%201's%20Together/
 
 * Nice Question
