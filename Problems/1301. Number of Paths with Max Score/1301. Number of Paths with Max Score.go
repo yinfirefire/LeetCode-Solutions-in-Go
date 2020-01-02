@@ -74,7 +74,3 @@ func getMax(a, b int) int {
 	}
 	return b
 }
-
-func main() {
-	pathsWithMaxScore([]string{"E11", "XXX", "11S"})
-}

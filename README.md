@@ -29,6 +29,7 @@ Update every weekend for LeetCode contest.
 991 | [Broken Calculator][991] | Math
 984 | [String Without AAA or BBB][984] *| Math, Greedy
 972 | [Equal Rational Numbers][972] | Math
+949 | [Largest Time for Given Digits][949] | Math
 858 | [Mirror Reflection][858] *| Math
 780 | [Reaching Points][780] | Math
 670 | [Maximum Swap][670] | Math
@@ -117,5 +118,6 @@ Update every weekend for LeetCode contest.
 [1297]: ./Problems/1297.%20Maximum%20Number%20of%20Occurrences%20of%20a%20Substring/
 [1301]: ./Problems/1301.%20Number%20of%20Paths%20with%20Max%20Score/
 [1151]: ./Problems/1151.%20Minimum%20Swaps%20to%20Group%20All%201's%20Together/
+[949]: ./Problems/949.%20Largest%20Time%20for%20Given%20Digits/
 
 * Nice Question
