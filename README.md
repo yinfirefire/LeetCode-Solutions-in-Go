@@ -40,6 +40,7 @@ Update every weekend for LeetCode contest.
 202 | [Happy Number][202] | Math
 166 | [Fraction to Recurring Decimal][166] | Math
 89 | [Gray Code][89] *| Math
+67 | [Add Binary][67] *| Math
 1086 | [High Five][1086] | Comparator
 1009 | [Complement of Base 10 Integer][1009] | Bit Manipulation
 1298 | [Maximum Candies You Can Get from Boxes][1298] | BFS
@@ -121,5 +122,6 @@ Update every weekend for LeetCode contest.
 [1151]: ./Problems/1151.%20Minimum%20Swaps%20to%20Group%20All%201's%20Together/
 [949]: ./Problems/949.%20Largest%20Time%20for%20Given%20Digits/
 [1153]: ./Problems/1153.%20String%20Transforms%20Into%20Another%20String/
+[67]: ./Problems/67.%20Add%20Binary/
 
 * Nice Question
