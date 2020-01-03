@@ -31,6 +31,7 @@ Update every weekend for LeetCode contest.
 984 | [String Without AAA or BBB][984] *| Math, Greedy
 972 | [Equal Rational Numbers][972] | Math
 949 | [Largest Time for Given Digits][949] | Math
+1250 | [Check If It Is a Good Array][1250] | Math, GCD
 914 | [X of a Kind in a Deck of Cards][914] | Math, GCD
 858 | [Mirror Reflection][858] *| Math
 780 | [Reaching Points][780] | Math
@@ -127,5 +128,6 @@ Update every weekend for LeetCode contest.
 [67]: ./Problems/67.%20Add%20Binary/
 [927]: ./Problems/927.%20Three%20Equal%20Parts/
 [914]: ./Problems/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards/
+[1250]: ./Problems/1250.%20Check%20If%20It%20Is%20a%20Good%20Array/
 
 * Nice Question
