@@ -63,6 +63,7 @@ Update every weekend for LeetCode contest.
 369 | [Plus One Linked List][369] | Linked List
 206 | [Reverse LinkedList][206] | Linked List
 23 | [Merge K Sorted Lists][23] | Linked List
+927 | [Three Equal Parts][927] | Array
 189 | [Rotate Array][189] | Array
 1297 | [Maximum Number of Occurrences of a Substring][1297] | Sliding Window
 1151 | [Minimum Swaps to Group All 1's Together][1151] | Sliding Window
@@ -123,5 +124,6 @@ Update every weekend for LeetCode contest.
 [949]: ./Problems/949.%20Largest%20Time%20for%20Given%20Digits/
 [1153]: ./Problems/1153.%20String%20Transforms%20Into%20Another%20String/
 [67]: ./Problems/67.%20Add%20Binary/
+[927]: ./Problems/927.%20Three%20Equal%20Parts/
 
 * Nice Question
