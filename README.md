@@ -31,6 +31,7 @@ Update every weekend for LeetCode contest.
 984 | [String Without AAA or BBB][984] *| Math, Greedy
 972 | [Equal Rational Numbers][972] | Math
 949 | [Largest Time for Given Digits][949] | Math
+914 | [X of a Kind in a Deck of Cards][914] | Math, GCD
 858 | [Mirror Reflection][858] *| Math
 780 | [Reaching Points][780] | Math
 670 | [Maximum Swap][670] | Math
@@ -125,5 +126,6 @@ Update every weekend for LeetCode contest.
 [1153]: ./Problems/1153.%20String%20Transforms%20Into%20Another%20String/
 [67]: ./Problems/67.%20Add%20Binary/
 [927]: ./Problems/927.%20Three%20Equal%20Parts/
+[914]: ./Problems/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards/
 
 * Nice Question
