@@ -18,6 +18,7 @@ Update every weekend for LeetCode contest.
 1153 | [String Transforms Into Another String][1153] *| Hashtable
 149 | [Max Points on a Line][149] *| Hashtable
 1291 | [Sequential Digits][1291] | Math
+1262 | [Greatest Sum Divisible by Three][1262] | Math
 1238 | [Circular Permutation in Binary Representation][1238] | Math
 1175 | [Prime Arrangements][1175] | Math
 1103 | [Distribute Candies to People][1103] | Math
@@ -36,6 +37,7 @@ Update every weekend for LeetCode contest.
 858 | [Mirror Reflection][858] *| Math
 780 | [Reaching Points][780] | Math
 670 | [Maximum Swap][670] | Math
+458 | [Poor Pigs][458] *| Math
 365 | [Water and Jug Problem][365] | Math
 335 | [Self Crossing][335] | Math
 233 | [Number of Digit One][233] | Math
@@ -129,5 +131,7 @@ Update every weekend for LeetCode contest.
 [927]: ./Problems/927.%20Three%20Equal%20Parts/
 [914]: ./Problems/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards/
 [1250]: ./Problems/1250.%20Check%20If%20It%20Is%20a%20Good%20Array/
+[1262]: ./Problems/1262.%20Greatest%20Sum%20Divisible%20by%20Three/
+[458]: ./Problems/458.%20Poor%20Pigs/
 
 * Nice Question
