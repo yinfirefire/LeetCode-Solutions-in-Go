@@ -37,6 +37,7 @@ Update every weekend for LeetCode contest.
 914 | [X of a Kind in a Deck of Cards][914] | Math, GCD
 858 | [Mirror Reflection][858] *| Math
 780 | [Reaching Points][780] | Math
+754 | [Reach a Number][754] | Math
 670 | [Maximum Swap][670] | Math
 458 | [Poor Pigs][458] *| Math
 365 | [Water and Jug Problem][365] | Math
@@ -141,5 +142,6 @@ Update every weekend for LeetCode contest.
 [1311]: ./Problems/1311.%20Get%20Watched%20Videos%20by%20Your%20Friends/
 [1312]: ./Problems/1312.%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome/
 [1310]: ./Problems/1310.%20XOR%20Queries%20of%20a%20Subarray/
+[754]: ./Problems/754.%20Reach%20a%20Number/
 
 * Nice Question
