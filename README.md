@@ -9,6 +9,7 @@ Update every weekend for LeetCode contest.
 
  No. | Name | Type |
 --- | --- | ---
+1312 | [Minimum Insertion Steps to Make a String Palindrome][1312] | DP
 1301 | [Number of Paths with Max Score][1301] | DP
 1278 | [Palindrome Partitioning III][1278] *| DP
 132 | [Palindrome Partitioning II][132] | DP
@@ -46,7 +47,9 @@ Update every weekend for LeetCode contest.
 89 | [Gray Code][89] *| Math
 67 | [Add Binary][67] *| Math
 1086 | [High Five][1086] | Comparator
+1310 | [XOR Queries of a Subarray][1310] | Bit Manipulation(XOR)
 1009 | [Complement of Base 10 Integer][1009] | Bit Manipulation
+1311 | [Get Watched Videos by Your Friends][1311] | BFS, Comparator
 1298 | [Maximum Candies You Can Get from Boxes][1298] | BFS
 1293 | [Shortest Path in a Grid with Obstacles Elimination][1293] | BFS
 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix][1284] | BFS
@@ -135,5 +138,8 @@ Update every weekend for LeetCode contest.
 [1262]: ./Problems/1262.%20Greatest%20Sum%20Divisible%20by%20Three/
 [458]: ./Problems/458.%20Poor%20Pigs/
 [910]: ./Problems/910.%20Smallest%20Range%20II/
+[1311]: ./Problems/1311.%20Get%20Watched%20Videos%20by%20Your%20Friends/
+[1312]: ./Problems/1312.%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome/
+[1310]: ./Problems/1310.%20XOR%20Queries%20of%20a%20Subarray/
 
 * Nice Question
