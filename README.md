@@ -32,6 +32,7 @@ Update every weekend for LeetCode contest.
 991 | [Broken Calculator][991] | Math
 984 | [String Without AAA or BBB][984] *| Math, Greedy
 972 | [Equal Rational Numbers][972] | Math
+964 | [Least Operators to Express Number][964] * | Math, DFS, Memo
 949 | [Largest Time for Given Digits][949] | Math
 1250 | [Check If It Is a Good Array][1250] | Math, GCD
 914 | [X of a Kind in a Deck of Cards][914] | Math, GCD
