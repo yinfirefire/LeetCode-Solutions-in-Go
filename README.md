@@ -49,7 +49,7 @@ Update every weekend for LeetCode contest.
 89 | [Gray Code][89] *| Math
 67 | [Add Binary][67] *| Math
 1086 | [High Five][1086] | Comparator
-1310 | [XOR Queries of a Subarray][1310] | Bit Manipulation(XOR)
+1310 | [XOR Queries of a Subarray][1310] | Bit Manipulation (XOR)
 1009 | [Complement of Base 10 Integer][1009] | Bit Manipulation
 1311 | [Get Watched Videos by Your Friends][1311] | BFS, Comparator
 1298 | [Maximum Candies You Can Get from Boxes][1298] | BFS

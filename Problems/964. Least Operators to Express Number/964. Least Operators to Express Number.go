@@ -24,7 +24,7 @@ func dfs(x int, target int, k int, mem map[int]map[int]int) int {
 		return int(target) * 2
 		//if this is the last bit
 	}
-	if v, ok := mem[int(target)][k]; ok {
+	if v, ok := mem[target][k]; ok {
 		return v
 	}
 	times := target / int(math.Pow(float64(x), float64(k)))
@@ -32,11 +32,12 @@ func dfs(x int, target int, k int, mem map[int]map[int]int) int {
 	//the final solution of current bit is either times or times+1
 	//it cannot be times-1, since then it will never fulfil target
 	//if use times+2, the target is over by a larger number, which we need to reduce later, so it won't be a optimized solution
-	ans1 := int(times)*k + dfs(x, abs(target-times*int(math.Pow(float64(x), float64(k)))), k-1, mem)
-	ans2 := int(times+1)*k + dfs(x, abs(target-(times+1)*int(math.Pow(float64(x), float64(k)))), k-1, mem)
-	mem[int(target)] = make(map[int]int, 0)
-	mem[int(target)][k] = min(ans1, ans2)
-	return min(ans1, ans2)
+	ans1 := times*k + dfs(x, abs(target-times*int(math.Pow(float64(x), float64(k)))), k-1, mem)
+	ans2 := (times+1)*k + dfs(x, abs(target-(times+1)*int(math.Pow(float64(x), float64(k)))), k-1, mem)
+	mem[target] = make(map[int]int, 0)
+	temp := min(ans1, ans2)
+	mem[target][k] = temp
+	return temp
 }
 
 func min(a, b int) int {
