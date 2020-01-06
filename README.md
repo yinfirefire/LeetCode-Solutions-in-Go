@@ -144,5 +144,6 @@ Update every weekend for LeetCode contest.
 [1312]: ./Problems/1312.%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome/
 [1310]: ./Problems/1310.%20XOR%20Queries%20of%20a%20Subarray/
 [754]: ./Problems/754.%20Reach%20a%20Number/
+[964]: ./Problems/964.%20Least%20Operators%20to%20Express%20Number/
 
 * Nice Question
