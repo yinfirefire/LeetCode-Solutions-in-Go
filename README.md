@@ -36,6 +36,7 @@ Update every weekend for LeetCode contest.
 949 | [Largest Time for Given Digits][949] | Math
 1250 | [Check If It Is a Good Array][1250] | Math, GCD
 914 | [X of a Kind in a Deck of Cards][914] | Math, GCD
+906 | [Super Palindromes][906] | Math, strconv
 858 | [Mirror Reflection][858] *| Math
 780 | [Reaching Points][780] | Math
 754 | [Reach a Number][754] | Math
@@ -145,5 +146,6 @@ Update every weekend for LeetCode contest.
 [1310]: ./Problems/1310.%20XOR%20Queries%20of%20a%20Subarray/
 [754]: ./Problems/754.%20Reach%20a%20Number/
 [964]: ./Problems/964.%20Least%20Operators%20to%20Express%20Number/
+[906]: ./Problems/906.%20Super%20Palindromes/
 
 * Nice Question
