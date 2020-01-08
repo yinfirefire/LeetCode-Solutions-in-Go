@@ -38,6 +38,7 @@ Update every weekend for LeetCode contest.
 914 | [X of a Kind in a Deck of Cards][914] | Math, GCD
 906 | [Super Palindromes][906] | Math, strconv
 902 | [Numbers At Most N Given Digit Set][902] | Math
+891 | [Sum of Subsequence Widths][891] | Math, MOD
 858 | [Mirror Reflection][858] *| Math
 780 | [Reaching Points][780] | Math
 754 | [Reach a Number][754] | Math
@@ -74,7 +75,8 @@ Update every weekend for LeetCode contest.
 369 | [Plus One Linked List][369] | Linked List
 206 | [Reverse LinkedList][206] | Linked List
 23 | [Merge K Sorted Lists][23] | Linked List
-927 | [Three Equal Parts][927] | Array
+927 | [Three Equal Parts][927] | Array, Greedy
+861 | [Score After Flipping Matrix][861] | Greedy
 910 | [Smallest Range II][910] | Array
 189 | [Rotate Array][189] | Array
 1297 | [Maximum Number of Occurrences of a Substring][1297] | Sliding Window
@@ -149,5 +151,7 @@ Update every weekend for LeetCode contest.
 [964]: ./Problems/964.%20Least%20Operators%20to%20Express%20Number/
 [906]: ./Problems/906.%20Super%20Palindromes/
 [902]: ./Problems/902.%20Numbers%20At%20Most%20N%20Given%20Digit%20Set/
+[861]: ./Problems/861.%20Score%20After%20Flipping%20Matrix/
+[891]: ./Problems/891.%20Sum%20of%20Subsequence%20Widths/
 
 * Nice Question
