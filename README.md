@@ -41,6 +41,7 @@ Update every weekend for LeetCode contest.
 906 | [Super Palindromes][906] | Math, strconv
 902 | [Numbers At Most N Given Digit Set][902] | Math
 891 | [Sum of Subsequence Widths][891] | Math, MOD
+869 | [Reordered Power of 2][869] | Math
 858 | [Mirror Reflection][858] *| Math
 780 | [Reaching Points][780] | Math
 754 | [Reach a Number][754] | Math
@@ -157,5 +158,6 @@ Update every weekend for LeetCode contest.
 [891]: ./Problems/891.%20Sum%20of%20Subsequence%20Widths/
 [215]: ./Problems/215.%20Kth%20Largest%20Element%20in%20an%20Array/
 [973]: ./Problems/973.%20K%20Closest%20Points%20to%20Origin/
+[869]: ./Problems/869.%20Reordered%20Power%20of%202/
 
 * Nice Question
