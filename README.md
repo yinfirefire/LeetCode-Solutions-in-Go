@@ -14,7 +14,9 @@ Update every weekend for LeetCode contest.
 1278 | [Palindrome Partitioning III][1278] *| DP
 132 | [Palindrome Partitioning II][132] | DP
 1066 | [Campus Bikes II][1066] *| DP
-1057 | [Campus Bikes][1057] | Sort
+1057 | [Campus Bikes][1057] | Priority Queue
+973 | [K Closest Points to Origin][973] | Priority Queue
+215 | [Kth Largest Element in an Array][215] | Priority Queue
 1218 | [Longest Arithmetic Subsequence of Given Difference][1218] | Hashtable
 1153 | [String Transforms Into Another String][1153] *| Hashtable
 149 | [Max Points on a Line][149] *| Hashtable
@@ -153,5 +155,7 @@ Update every weekend for LeetCode contest.
 [902]: ./Problems/902.%20Numbers%20At%20Most%20N%20Given%20Digit%20Set/
 [861]: ./Problems/861.%20Score%20After%20Flipping%20Matrix/
 [891]: ./Problems/891.%20Sum%20of%20Subsequence%20Widths/
+[215]: ./Problems/215.%20Kth%20Largest%20Element%20in%20an%20Array/
+[973]: ./Problems/973.%20K%20Closest%20Points%20to%20Origin/
 
 * Nice Question
