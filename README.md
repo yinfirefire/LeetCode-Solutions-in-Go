@@ -45,6 +45,7 @@ Update every weekend for LeetCode contest.
 869 | [Reordered Power of 2][869] *| Math
 858 | [Mirror Reflection][858] *| Math
 836 | [Rectangle Overlap][836] | Math
+829 | [Consecutive Numbers Sum][829] *| Math
 780 | [Reaching Points][780] | Math
 754 | [Reach a Number][754] | Math
 670 | [Maximum Swap][670] | Math
@@ -168,5 +169,6 @@ Update every weekend for LeetCode contest.
 [223]: ./Problems/223.%20Rectangle%20Area/
 [1318]: ./Problems/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c/
 [1319]: ./Problems/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected/
+[829]: ./Problems/829.%20Consecutive%20Numbers%20Sum/
 
 * Nice Question
