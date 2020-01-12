@@ -81,6 +81,14 @@ func isSolvable(words []string, result string) bool {
 			leadingZero[i] = 0
 		}
 	}
+
+	return false
+}
+
+func dfs(pos, total int, sufSumMax, sufSumMin []int) bool {
+	if pos == len(ws) {
+		return total == 0
+	}
 	return false
 }
 

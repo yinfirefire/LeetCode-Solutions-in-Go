@@ -9,6 +9,7 @@ Update every weekend for LeetCode contest.
 
  No. | Name | Type |
 --- | --- | ---
+1320 | [Minimum Distance to Type a Word Using Two Fingers][1320] *| DP
 1312 | [Minimum Insertion Steps to Make a String Palindrome][1312] | DP
 1301 | [Number of Paths with Max Score][1301] | DP
 1278 | [Palindrome Partitioning III][1278] *| DP
@@ -41,7 +42,7 @@ Update every weekend for LeetCode contest.
 906 | [Super Palindromes][906] | Math, strconv
 902 | [Numbers At Most N Given Digit Set][902] | Math
 891 | [Sum of Subsequence Widths][891] | Math, MOD
-869 | [Reordered Power of 2][869] | Math
+869 | [Reordered Power of 2][869] *| Math
 858 | [Mirror Reflection][858] *| Math
 836 | [Rectangle Overlap][836] | Math
 780 | [Reaching Points][780] | Math
@@ -59,6 +60,7 @@ Update every weekend for LeetCode contest.
 1086 | [High Five][1086] | Comparator
 1310 | [XOR Queries of a Subarray][1310] | Bit Manipulation (XOR)
 1009 | [Complement of Base 10 Integer][1009] | Bit Manipulation
+1318 | [Minimum Flips to Make a OR b Equal to c][1318] | Bit Manipulation
 1311 | [Get Watched Videos by Your Friends][1311] | BFS, Comparator
 1298 | [Maximum Candies You Can Get from Boxes][1298] | BFS
 1293 | [Shortest Path in a Grid with Obstacles Elimination][1293] | BFS
@@ -86,6 +88,7 @@ Update every weekend for LeetCode contest.
 189 | [Rotate Array][189] | Array
 1297 | [Maximum Number of Occurrences of a Substring][1297] | Sliding Window
 1151 | [Minimum Swaps to Group All 1's Together][1151] | Sliding Window
+1319 | [Number of Operations to Make Network Connected][1319] | Union Find
 
 [1298]: ./Problems/1298.%20Maximum%20Candies%20You%20Can%20Get%20from%20Boxes/
 [1293]: ./Problems/1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination/
@@ -163,5 +166,7 @@ Update every weekend for LeetCode contest.
 [869]: ./Problems/869.%20Reordered%20Power%20of%202/
 [836]: ./Problems/836.%20Rectangle%20Overlap/
 [223]: ./Problems/223.%20Rectangle%20Area/
+[1318]: ./Problems/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c/
+[1319]: ./Problems/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected/
 
 * Nice Question

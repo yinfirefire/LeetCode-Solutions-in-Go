@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"math"
 	"strconv"
 )
@@ -51,24 +50,6 @@ func helper(s string, idx int, tb map[int][]int, mem map[string]int, left, right
 	return res
 }
 
-func main() {
-	fmt.Println(minimumDistance("CAKE"))
-}
-
-func abs(a int) int {
-	if a < 0 {
-		return -1 * a
-	}
-	return a
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func min(a, b int) int {
 	if a > b {
 		return b
@@ -76,17 +57,9 @@ func min(a, b int) int {
 	return a
 }
 
-func gcd(a, b int) int {
-	if b == 0 {
-		return a
+func abs(a int) int {
+	if a < 0 {
+		return -1 * a
 	}
-	return gcd(b, a%b)
-}
-
-func twodarray(m, n int) [][]int {
-	res := make([][]int, m)
-	for i := range res {
-		res[i] = make([]int, n)
-	}
-	return res
+	return a
 }
