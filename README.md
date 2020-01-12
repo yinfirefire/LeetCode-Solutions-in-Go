@@ -51,6 +51,7 @@ Update every weekend for LeetCode contest.
 365 | [Water and Jug Problem][365] | Math
 335 | [Self Crossing][335] | Math
 233 | [Number of Digit One][233] | Math
+223 | [Rectangle Area][223] | Math
 202 | [Happy Number][202] | Math
 166 | [Fraction to Recurring Decimal][166] | Math
 89 | [Gray Code][89] *| Math
@@ -161,5 +162,6 @@ Update every weekend for LeetCode contest.
 [973]: ./Problems/973.%20K%20Closest%20Points%20to%20Origin/
 [869]: ./Problems/869.%20Reordered%20Power%20of%202/
 [836]: ./Problems/836.%20Rectangle%20Overlap/
+[223]: ./Problems/223.%20Rectangle%20Area/
 
 * Nice Question
