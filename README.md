@@ -7,8 +7,6 @@ Update at least one problem each day from [Daily Problems](https://docs.google.c
 
 Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.html) if you are interested in daily problems and LeetCode Weekly Contest.
 
-Update every weekend for LeetCode contest.
-
 
 
  No. | Name | Type |
