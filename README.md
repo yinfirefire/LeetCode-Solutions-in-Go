@@ -3,9 +3,9 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Go](https://img.shields.io/badge/Go-1.12-blue.svg)](https://golang.org)
 
-Update at least one problem each day from [Daily Problems](https://docs.google.com/spreadsheets/d/1kBGyRsSdbGDu7DzjQcC-UkZjZERdrP8-_QyVGXHSrB8/edit#gid=0)
+Update at least one problem each day from [Daily Problems](https://docs.google.com/spreadsheets/d/1kBGyRsSdbGDu7DzjQcC-UkZjZERdrP8-_QyVGXHSrB8/edit#gid=0).
 
-Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.html) if you are interested in daily problems and LeetCode Weekly Contest
+Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.html) if you are interested in daily problems and LeetCode Weekly Contest.
 
 Update every weekend for LeetCode contest.
 
