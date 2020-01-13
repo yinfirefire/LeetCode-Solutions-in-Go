@@ -3,9 +3,13 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Go](https://img.shields.io/badge/Go-1.12-blue.svg)](https://golang.org)
 
-Update at least one problem each day from https://docs.google.com/spreadsheets/d/1kBGyRsSdbGDu7DzjQcC-UkZjZERdrP8-_QyVGXHSrB8/edit#gid=0
+Update at least one problem each day from [Daily Problems](https://docs.google.com/spreadsheets/d/1kBGyRsSdbGDu7DzjQcC-UkZjZERdrP8-_QyVGXHSrB8/edit#gid=0)
+
+Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.html) if you are interested in daily problems and LeetCode Weekly Contest
 
 Update every weekend for LeetCode contest.
+
+
 
  No. | Name | Type |
 --- | --- | ---
@@ -171,5 +175,6 @@ Update every weekend for LeetCode contest.
 [1319]: ./Problems/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected/
 [1320]: ./Problems/1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/
 [829]: ./Problems/829.%20Consecutive%20Numbers%20Sum/
+[1307]: ./Problems/1307.%20Verbal%20Arithmetic%20Puzzle/
 
 * Nice Question
