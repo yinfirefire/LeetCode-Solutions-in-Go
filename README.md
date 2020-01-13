@@ -1,4 +1,4 @@
-# Go Solution for LeetCode
+# Go Solution for LeetCode (Weekly Contest 171 Updated)
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Go](https://img.shields.io/badge/Go-1.12-blue.svg)](https://golang.org)
@@ -169,6 +169,7 @@ Update every weekend for LeetCode contest.
 [223]: ./Problems/223.%20Rectangle%20Area/
 [1318]: ./Problems/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c/
 [1319]: ./Problems/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected/
+[1320]: ./Problems/1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/
 [829]: ./Problems/829.%20Consecutive%20Numbers%20Sum/
 
 * Nice Question
