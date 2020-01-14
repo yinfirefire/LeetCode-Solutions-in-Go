@@ -64,6 +64,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 1310 | [XOR Queries of a Subarray][1310] | Bit Manipulation (XOR)
 1009 | [Complement of Base 10 Integer][1009] | Bit Manipulation
 1318 | [Minimum Flips to Make a OR b Equal to c][1318] | Bit Manipulation
+810 | [Chalkboard XOR Game][810] | Bit Manipulation (XOR), Math
 1311 | [Get Watched Videos by Your Friends][1311] | BFS, Comparator
 1298 | [Maximum Candies You Can Get from Boxes][1298] | BFS
 1293 | [Shortest Path in a Grid with Obstacles Elimination][1293] | BFS
@@ -174,5 +175,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [1320]: ./Problems/1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/
 [829]: ./Problems/829.%20Consecutive%20Numbers%20Sum/
 [1307]: ./Problems/1307.%20Verbal%20Arithmetic%20Puzzle/
+[810]: ./Problems/810.%20Chalkboard%20XOR%20Game/
 
 * Nice Question
