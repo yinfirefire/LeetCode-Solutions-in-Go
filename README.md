@@ -48,6 +48,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 858 | [Mirror Reflection][858] *| Math
 836 | [Rectangle Overlap][836] | Math
 829 | [Consecutive Numbers Sum][829] *| Math
+789 | [Escape The Ghosts][789] | Math
 780 | [Reaching Points][780] | Math
 754 | [Reach a Number][754] | Math
 670 | [Maximum Swap][670] | Math
@@ -176,5 +177,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [829]: ./Problems/829.%20Consecutive%20Numbers%20Sum/
 [1307]: ./Problems/1307.%20Verbal%20Arithmetic%20Puzzle/
 [810]: ./Problems/810.%20Chalkboard%20XOR%20Game/
+[789]: ./Problems/789.%20Escape%20The%20Ghosts/
 
 * Nice Question
