@@ -17,7 +17,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 1278 | [Palindrome Partitioning III][1278] *| DP
 132 | [Palindrome Partitioning II][132] | DP
 1066 | [Campus Bikes II][1066] *| DP
-1057 | [Campus Bikes][1057] | Priority Queue
+1057 | [Campus Bikes ][1057] | Priority Queue 
 973 | [K Closest Points to Origin][973] | Priority Queue
 215 | [Kth Largest Element in an Array][215] | Priority Queue
 1218 | [Longest Arithmetic Subsequence of Given Difference][1218] | Hashtable
@@ -53,6 +53,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 775 | [Global and Local Inversions][775] | Math
 754 | [Reach a Number][754] | Math
 670 | [Maximum Swap][670] | Math
+593 | [Valid Square][593] | Math
 458 | [Poor Pigs][458] *| Math
 365 | [Water and Jug Problem][365] | Math
 335 | [Self Crossing][335] | Math
@@ -182,5 +183,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [789]: ./Problems/789.%20Escape%20The%20Ghosts/
 [775]: ./Problems/775.%20Global%20and%20Local%20Inversions/
 [753]: ./Problems/753.%20Cracking%20the%20Safe/
+[593]: ./Problems/593.%20Valid%20Square/
 
 * Nice Question
