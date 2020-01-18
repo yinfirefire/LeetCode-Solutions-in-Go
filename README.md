@@ -83,6 +83,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 744 | [Find Smallest Letter Greater Than Target][744] | Binary Search
 287 | [Find the Duplicate Number][287] | Binary Search By Value
 1300 | [Sum of Mutated Array Closest to Target][1300] *| Binary Search By Value
+753 | [Cracking the Safe][753] *| BackTrack
 131 | [Palindrome Partitioning][131] | BackTrack
 1307 | [Verbal Arithmetic Puzzle][1307] *| BackTrack
 369 | [Plus One Linked List][369] | Linked List
@@ -180,5 +181,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [810]: ./Problems/810.%20Chalkboard%20XOR%20Game/
 [789]: ./Problems/789.%20Escape%20The%20Ghosts/
 [775]: ./Problems/775.%20Global%20and%20Local%20Inversions/
+[753]: ./Problems/753.%20Cracking%20the%20Safe/
 
 * Nice Question
