@@ -50,6 +50,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 829 | [Consecutive Numbers Sum][829] *| Math
 789 | [Escape The Ghosts][789] | Math
 780 | [Reaching Points][780] | Math
+775 | [Global and Local Inversions][775] | Math
 754 | [Reach a Number][754] | Math
 670 | [Maximum Swap][670] | Math
 458 | [Poor Pigs][458] *| Math
@@ -178,5 +179,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [1307]: ./Problems/1307.%20Verbal%20Arithmetic%20Puzzle/
 [810]: ./Problems/810.%20Chalkboard%20XOR%20Game/
 [789]: ./Problems/789.%20Escape%20The%20Ghosts/
+[775]: ./Problems/775.%20Global%20and%20Local%20Inversions/
 
 * Nice Question
