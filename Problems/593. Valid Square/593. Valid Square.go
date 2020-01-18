@@ -18,13 +18,6 @@ func validSquare(p1 []int, p2 []int, p3 []int, p4 []int) bool {
 	}
 }
 
-func abs(a int) int {
-	if a < 0 {
-		return -a
-	}
-	return a
-}
-
 func distSq(p1, p2 []int) int {
-	return abs(p1[0]-p2[0])*abs(p1[0]-p2[0]) + abs(p1[1]-p2[1])*abs(p1[1]-p2[1])
+	return (p1[0]-p2[0])*(p1[0]-p2[0]) + (p1[1]-p2[1])*(p1[1]-p2[1])
 }
