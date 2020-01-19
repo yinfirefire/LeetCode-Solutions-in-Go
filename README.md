@@ -98,6 +98,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 189 | [Rotate Array][189] | Array
 1297 | [Maximum Number of Occurrences of a Substring][1297] | Sliding Window
 1151 | [Minimum Swaps to Group All 1's Together][1151] | Sliding Window
+1315 | [Sum of Nodes with Even-Valued Grandparent][1315] *| Binary Tree
 1319 | [Number of Operations to Make Network Connected][1319] | Union Find
 
 [1298]: ./Problems/1298.%20Maximum%20Candies%20You%20Can%20Get%20from%20Boxes/
@@ -188,5 +189,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [593]: ./Problems/593.%20Valid%20Square/
 [1021]: ./Problems/1021.%20Remove%20Outermost%20Parentheses/
 [1314]: ./Problems/1314.%20Matrix%20Block%20Sum/
+[1315]: ./Problems/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent/
 
 * Nice Question
