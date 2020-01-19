@@ -91,6 +91,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 206 | [Reverse LinkedList][206] | Linked List
 23 | [Merge K Sorted Lists][23] | Linked List
 1326 | [Minimum Number of Taps to Open to Water a Garden][1326] | Greedy
+1024 | [Video Stitching][1024] | Greedy
 927 | [Three Equal Parts][927] | Greedy
 861 | [Score After Flipping Matrix][861] | Greedy
 1314 | [Matrix Block Sum][1314] | Array
@@ -99,6 +100,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 189 | [Rotate Array][189] | Array
 1297 | [Maximum Number of Occurrences of a Substring][1297] | Sliding Window
 1151 | [Minimum Swaps to Group All 1's Together][1151] | Sliding Window
+1325 | [Delete Leaves With a Given Value][1325] | Binary Tree
 1315 | [Sum of Nodes with Even-Valued Grandparent][1315] *| Binary Tree
 1319 | [Number of Operations to Make Network Connected][1319] | Union Find
 
@@ -192,5 +194,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [1314]: ./Problems/1314.%20Matrix%20Block%20Sum/
 [1315]: ./Problems/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent/
 [1326]: ./Problems/1326.%20Minimum%20Number%20of%20Taps%20to%20Open%20to%20Water%20a%20Garden/
+[1325]: ./Problems/1325.%20Delete%20Leaves%20With%20a%20Given%20Value/
+[1024]: ./Problems/1024.%20Video%20Stitching/
 
 * Nice Question
