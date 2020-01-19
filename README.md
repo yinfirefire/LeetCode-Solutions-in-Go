@@ -90,7 +90,8 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 369 | [Plus One Linked List][369] | Linked List
 206 | [Reverse LinkedList][206] | Linked List
 23 | [Merge K Sorted Lists][23] | Linked List
-927 | [Three Equal Parts][927] | Array, Greedy
+1326 | [Minimum Number of Taps to Open to Water a Garden][1326] | Greedy
+927 | [Three Equal Parts][927] | Greedy
 861 | [Score After Flipping Matrix][861] | Greedy
 1314 | [Matrix Block Sum][1314] | Array
 1021 | [Remove Outermost Parentheses][1021] | Array
@@ -190,5 +191,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [1021]: ./Problems/1021.%20Remove%20Outermost%20Parentheses/
 [1314]: ./Problems/1314.%20Matrix%20Block%20Sum/
 [1315]: ./Problems/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent/
+[1326]: ./Problems/1326.%20Minimum%20Number%20of%20Taps%20to%20Open%20to%20Water%20a%20Garden/
 
 * Nice Question
