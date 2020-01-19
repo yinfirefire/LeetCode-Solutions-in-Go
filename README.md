@@ -92,6 +92,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 23 | [Merge K Sorted Lists][23] | Linked List
 927 | [Three Equal Parts][927] | Array, Greedy
 861 | [Score After Flipping Matrix][861] | Greedy
+1314 | [Matrix Block Sum][1314] | Array
 1021 | [Remove Outermost Parentheses][1021] | Array
 910 | [Smallest Range II][910] | Array
 189 | [Rotate Array][189] | Array
@@ -186,5 +187,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [753]: ./Problems/753.%20Cracking%20the%20Safe/
 [593]: ./Problems/593.%20Valid%20Square/
 [1021]: ./Problems/1021.%20Remove%20Outermost%20Parentheses/
+[1314]: ./Problems/1314.%20Matrix%20Block%20Sum/
 
 * Nice Question
