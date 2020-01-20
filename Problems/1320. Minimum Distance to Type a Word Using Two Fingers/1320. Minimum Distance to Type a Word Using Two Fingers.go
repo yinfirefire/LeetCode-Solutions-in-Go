@@ -94,7 +94,6 @@ func minimumDistance2(word string) int {
 		}
 	}
 	return dp[0][26][26]
-
 }
 
 func dist(x, y int, tb map[int][]int) int {

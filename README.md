@@ -12,7 +12,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
  No. | Name | Type |
 --- | --- | ---
 1320 | [Minimum Distance to Type a Word Using Two Fingers][1320] *| DP
-1312 | [Minimum Insertion Steps to Make a String Palindrome][1312] | DP
+1312 | [Minimum Insertion Steps to Make a String Palindrome][1312] *| DP
 1301 | [Number of Paths with Max Score][1301] | DP
 1278 | [Palindrome Partitioning III][1278] *| DP
 132 | [Palindrome Partitioning II][132] | DP
@@ -20,8 +20,10 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 1057 | [Campus Bikes ][1057] | Priority Queue 
 973 | [K Closest Points to Origin][973] | Priority Queue
 215 | [Kth Largest Element in an Array][215] | Priority Queue
+1224 | [Maximum Equal Frequency][1224] *| Hashtable
 1218 | [Longest Arithmetic Subsequence of Given Difference][1218] | Hashtable
 1153 | [String Transforms Into Another String][1153] *| Hashtable
+523 | [Continuous Subarray Sum][523] | Hashtable
 149 | [Max Points on a Line][149] *| Hashtable
 1291 | [Sequential Digits][1291] | Math
 1262 | [Greatest Sum Divisible by Three][1262] | Math
@@ -94,12 +96,14 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 1024 | [Video Stitching][1024] | Greedy
 927 | [Three Equal Parts][927] | Greedy
 861 | [Score After Flipping Matrix][861] | Greedy
+1253 | [Reconstruct a 2-Row Binary Matrix][1253] | Array
 1314 | [Matrix Block Sum][1314] | Array
 1021 | [Remove Outermost Parentheses][1021] | Array
 910 | [Smallest Range II][910] | Array
 189 | [Rotate Array][189] | Array
 1297 | [Maximum Number of Occurrences of a Substring][1297] | Sliding Window
 1151 | [Minimum Swaps to Group All 1's Together][1151] | Sliding Window
+1031 | [Maximum Sum of Two Non-Overlapping Subarrays][1031] *| Sliding Window
 1325 | [Delete Leaves With a Given Value][1325] | Binary Tree
 1315 | [Sum of Nodes with Even-Valued Grandparent][1315] *| Binary Tree
 1319 | [Number of Operations to Make Network Connected][1319] | Union Find
@@ -196,5 +200,9 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [1326]: ./Problems/1326.%20Minimum%20Number%20of%20Taps%20to%20Open%20to%20Water%20a%20Garden/
 [1325]: ./Problems/1325.%20Delete%20Leaves%20With%20a%20Given%20Value/
 [1024]: ./Problems/1024.%20Video%20Stitching/
+[1253]: ./Problems/1253.%20Reconstruct%20a%202-Row%20Binary%20Matrix/
+[523]: ./Problems/523.%20Continuous%20Subarray%20Sum/
+[1224]: ./Problems/1224.%20Maximum%20Equal%20Frequency/
+[1031]: ./Problems/1031.%20Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays/
 
 * Nice Question
