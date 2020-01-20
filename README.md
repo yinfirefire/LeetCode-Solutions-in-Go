@@ -15,6 +15,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 1312 | [Minimum Insertion Steps to Make a String Palindrome][1312] *| DP
 1301 | [Number of Paths with Max Score][1301] | DP
 1278 | [Palindrome Partitioning III][1278] *| DP
+1223 | [Dice Roll Simulation][1223] *| DP
 132 | [Palindrome Partitioning II][132] | DP
 1066 | [Campus Bikes II][1066] *| DP
 1057 | [Campus Bikes ][1057] | Priority Queue 
@@ -204,5 +205,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [523]: ./Problems/523.%20Continuous%20Subarray%20Sum/
 [1224]: ./Problems/1224.%20Maximum%20Equal%20Frequency/
 [1031]: ./Problems/1031.%20Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays/
+[1223]: ./Problems/1223.%20Dice%20Roll%20Simulation/
 
 * Nice Question
