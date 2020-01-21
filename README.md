@@ -57,6 +57,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 754 | [Reach a Number][754] | Math
 670 | [Maximum Swap][670] | Math
 593 | [Valid Square][593] | Math
+517 | [Super Washing Machines][517] *| Math
 458 | [Poor Pigs][458] *| Math
 365 | [Water and Jug Problem][365] | Math
 335 | [Self Crossing][335] | Math
@@ -206,5 +207,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [1224]: ./Problems/1224.%20Maximum%20Equal%20Frequency/
 [1031]: ./Problems/1031.%20Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays/
 [1223]: ./Problems/1223.%20Dice%20Roll%20Simulation/
+[517]: ./Problems/517.%20Super%20Washing%20Machines/
 
 * Nice Question
