@@ -88,6 +88,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 744 | [Find Smallest Letter Greater Than Target][744] | Binary Search
 287 | [Find the Duplicate Number][287] | Binary Search By Value
 1300 | [Sum of Mutated Array Closest to Target][1300] *| Binary Search By Value
+483 | [Smallest Good Base][483] *| Binary Search By Value, Bit Manipulation, Math
 753 | [Cracking the Safe][753] *| BackTrack
 131 | [Palindrome Partitioning][131] | BackTrack
 1307 | [Verbal Arithmetic Puzzle][1307] *| BackTrack
@@ -208,5 +209,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [1031]: ./Problems/1031.%20Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays/
 [1223]: ./Problems/1223.%20Dice%20Roll%20Simulation/
 [517]: ./Problems/517.%20Super%20Washing%20Machines/
+[483]: ./Problems/483.%20Smallest%20Good%20Base/
 
 * Nice Question
