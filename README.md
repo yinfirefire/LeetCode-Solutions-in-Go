@@ -59,6 +59,8 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 593 | [Valid Square][593] | Math
 517 | [Super Washing Machines][517] *| Math
 458 | [Poor Pigs][458] *| Math
+400 | [Nth Digit][400] | Math
+396 | [Rotate Function][396] | Math
 365 | [Water and Jug Problem][365] | Math
 335 | [Self Crossing][335] | Math
 233 | [Number of Digit One][233] | Math
@@ -210,5 +212,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [1223]: ./Problems/1223.%20Dice%20Roll%20Simulation/
 [517]: ./Problems/517.%20Super%20Washing%20Machines/
 [483]: ./Problems/483.%20Smallest%20Good%20Base/
+[400]: ./Problems/400.%20Nth%20Digit/
+[396]: ./Problems/396.%20Rotate%20Function/
 
 * Nice Question
