@@ -69,6 +69,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 166 | [Fraction to Recurring Decimal][166] | Math
 89 | [Gray Code][89] *| Math
 67 | [Add Binary][67] *| Math
+60 | [Permutation Sequence][60] | Math
 1086 | [High Five][1086] | Comparator
 1310 | [XOR Queries of a Subarray][1310] | Bit Manipulation (XOR)
 1009 | [Complement of Base 10 Integer][1009] | Bit Manipulation
@@ -214,5 +215,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [483]: ./Problems/483.%20Smallest%20Good%20Base/
 [400]: ./Problems/400.%20Nth%20Digit/
 [396]: ./Problems/396.%20Rotate%20Function/
+[60]: ./Problems/60.%20Permutation%20Sequence/
 
 * Nice Question
