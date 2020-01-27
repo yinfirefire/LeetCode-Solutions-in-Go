@@ -1,4 +1,4 @@
-# Go Solution for LeetCode (Weekly Contest 172 Updated)
+# Go Solution for LeetCode (Weekly Contest 173 Updated)
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Go](https://img.shields.io/badge/Go-1.12-blue.svg)](https://golang.org)
@@ -8,6 +8,13 @@ Update at least one problem each day from [Daily Problems](https://docs.google.c
 Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.html) if you are interested in daily problems and LeetCode Weekly Contest.
 
 
+<p align="center">
+  <img width="460" height="300" src="kobe.png">
+</p>
+
+![Kobe](kobe.png)
+
+In honor of Kobe - Jan 26th, 2020
 
  No. | Name | Type |
 --- | --- | ---
