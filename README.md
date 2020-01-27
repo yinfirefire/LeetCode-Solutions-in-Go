@@ -12,6 +12,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
  No. | Name | Type |
 --- | --- | ---
 1335 | [Minimum Difficulty of a Job Schedule][1335] *| DP
+1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance][1134] *| DP, Floyd
 1320 | [Minimum Distance to Type a Word Using Two Fingers][1320] *| DP
 1312 | [Minimum Insertion Steps to Make a String Palindrome][1312] *| DP
 1301 | [Number of Paths with Max Score][1301] | DP
@@ -220,5 +221,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [60]: ./Problems/60.%20Permutation%20Sequence/
 [1335]: ./Problems/1335.%20Minimum%20Difficulty%20of%20a%20Job%20Schedule/
 [40]: ./Problems/400.%20Nth%20Digit/
+[1334]: ./Problems/1334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance/
 
 * Nice Question
