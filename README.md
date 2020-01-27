@@ -114,6 +114,7 @@ In honor of Kobe - Jan 26th, 2020
 1314 | [Matrix Block Sum][1314] | Array
 1021 | [Remove Outermost Parentheses][1021] | Array
 910 | [Smallest Range II][910] | Array
+678 | [Valid Parenthesis String][678] | String
 189 | [Rotate Array][189] | Array
 1297 | [Maximum Number of Occurrences of a Substring][1297] | Sliding Window
 1151 | [Minimum Swaps to Group All 1's Together][1151] | Sliding Window
@@ -227,5 +228,6 @@ In honor of Kobe - Jan 26th, 2020
 [1335]: ./Problems/1335.%20Minimum%20Difficulty%20of%20a%20Job%20Schedule/
 [40]: ./Problems/400.%20Nth%20Digit/
 [1334]: ./Problems/1334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance/
+[678]: ./Problems/678.%20Valid%20Parenthesis%20String/
 
 * Nice Question
