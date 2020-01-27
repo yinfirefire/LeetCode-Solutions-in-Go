@@ -9,10 +9,8 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 
 
 <p align="center">
-  <img width="460" height="300" src="kobe.png">
+  <img  src="kobe.png">
 </p>
-
-![Kobe](kobe.png)
 
 In honor of Kobe - Jan 26th, 2020
 
