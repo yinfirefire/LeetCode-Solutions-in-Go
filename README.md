@@ -11,6 +11,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 
  No. | Name | Type |
 --- | --- | ---
+1335 | [Minimum Difficulty of a Job Schedule][1335] *| DP
 1320 | [Minimum Distance to Type a Word Using Two Fingers][1320] *| DP
 1312 | [Minimum Insertion Steps to Make a String Palindrome][1312] *| DP
 1301 | [Number of Paths with Max Score][1301] | DP
@@ -92,6 +93,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 287 | [Find the Duplicate Number][287] | Binary Search By Value
 1300 | [Sum of Mutated Array Closest to Target][1300] *| Binary Search By Value
 483 | [Smallest Good Base][483] *| Binary Search By Value, Bit Manipulation, Math
+40 | [Permutations II][40] | BackTrack
 753 | [Cracking the Safe][753] *| BackTrack
 131 | [Palindrome Partitioning][131] | BackTrack
 1307 | [Verbal Arithmetic Puzzle][1307] *| BackTrack
@@ -216,5 +218,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [400]: ./Problems/400.%20Nth%20Digit/
 [396]: ./Problems/396.%20Rotate%20Function/
 [60]: ./Problems/60.%20Permutation%20Sequence/
+[1335]: ./Problems/1335.%20Minimum%20Difficulty%20of%20a%20Job%20Schedule/
+[40]: ./Problems/400.%20Nth%20Digit/
 
 * Nice Question
