@@ -110,6 +110,7 @@ In honor of Kobe - Jan 26th, 2020
 1024 | [Video Stitching][1024] | Greedy
 927 | [Three Equal Parts][927] | Greedy
 861 | [Score After Flipping Matrix][861] | Greedy
+1329 | [Sort the Matrix Diagonally][1329] | Array
 1253 | [Reconstruct a 2-Row Binary Matrix][1253] | Array
 1314 | [Matrix Block Sum][1314] | Array
 1021 | [Remove Outermost Parentheses][1021] | Array
@@ -231,5 +232,6 @@ In honor of Kobe - Jan 26th, 2020
 [1334]: ./Problems/1334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance/
 [678]: ./Problems/678.%20Valid%20Parenthesis%20String/
 [1328]: ./Problems/1328.%20Break%20a%20Palindrome/
+[1329]: ./Problems/1329.%20Sort%20the%20Matrix%20Diagonally/
 
 * Nice Question
