@@ -116,8 +116,10 @@ In honor of Kobe - Jan 26th, 2020
 1021 | [Remove Outermost Parentheses][1021] | Array
 910 | [Smallest Range II][910] | Array
 1328 | [Break a Palindrome][1328] | String
+567 | [Permutation in String][567] | String
 678 | [Valid Parenthesis String][678] | String
 189 | [Rotate Array][189] | Array
+31 | [Next Permutation][31] | Array
 1297 | [Maximum Number of Occurrences of a Substring][1297] | Sliding Window
 1151 | [Minimum Swaps to Group All 1's Together][1151] | Sliding Window
 1031 | [Maximum Sum of Two Non-Overlapping Subarrays][1031] *| Sliding Window
@@ -233,5 +235,7 @@ In honor of Kobe - Jan 26th, 2020
 [678]: ./Problems/678.%20Valid%20Parenthesis%20String/
 [1328]: ./Problems/1328.%20Break%20a%20Palindrome/
 [1329]: ./Problems/1329.%20Sort%20the%20Matrix%20Diagonally/
+[31]: ./Problems/31.%20Next%20Permutation/
+[567]: ./Problems/567.%20Permutation%20in%20String/
 
 * Nice Question
