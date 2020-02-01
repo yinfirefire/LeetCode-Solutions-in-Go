@@ -23,6 +23,7 @@ In honor of Kobe - Jan 26th, 2020
 1301 | [Number of Paths with Max Score][1301] | DP
 1278 | [Palindrome Partitioning III][1278] *| DP
 1223 | [Dice Roll Simulation][1223] *| DP
+903 | [Valid Permutations for DI Sequence][903] *| DP
 132 | [Palindrome Partitioning II][132] | DP
 1066 | [Campus Bikes II][1066] *| DP
 1057 | [Campus Bikes ][1057] | Priority Queue 
@@ -237,5 +238,6 @@ In honor of Kobe - Jan 26th, 2020
 [1329]: ./Problems/1329.%20Sort%20the%20Matrix%20Diagonally/
 [31]: ./Problems/31.%20Next%20Permutation/
 [567]: ./Problems/567.%20Permutation%20in%20String/
+[903]: ./Problems/903.%20Valid%20Permutations%20for%20DI%20Sequence/
 
 * Nice Question
