@@ -1,9 +1,6 @@
 package main
 
-import (
-	"fmt"
-	"sort"
-)
+import "sort"
 
 func maxJumps(arr []int, d int) int {
 	res := 1
@@ -21,7 +18,7 @@ func maxJumps(arr []int, d int) int {
 		cur := 1
 		for j := 1; j <= d; j++ {
 			if idx+j < l {
-				if arr[idx+j] > arr[idx] {
+				if arr[idx+j] >= arr[idx] {
 					break
 				}
 				cur = max(cur, dp[idx+j]+1)
@@ -29,7 +26,7 @@ func maxJumps(arr []int, d int) int {
 		}
 		for j := 1; j <= d; j++ {
 			if idx-j >= 0 {
-				if arr[idx-j] > arr[idx] {
+				if arr[idx-j] >= arr[idx] {
 					break
 				}
 				cur = max(cur, dp[idx-j]+1)
@@ -38,45 +35,12 @@ func maxJumps(arr []int, d int) int {
 		dp[idx] = cur
 		res = max(dp[idx], res)
 	}
+	// fmt.Println(dp)
 	return res
 }
-
-func main() {
-	fmt.Println(maxJumps([]int{6, 4, 14, 6, 8, 13, 9, 7, 10, 6, 12}, 2))
-}
-
-func abs(a int) int {
-	if a < 0 {
-		return -a
-	}
-	return a
-}
-
 func max(a, b int) int {
 	if a > b {
 		return a
 	}
 	return b
-}
-
-func min(a, b int) int {
-	if a > b {
-		return b
-	}
-	return a
-}
-
-func gcd(a, b int) int {
-	if b == 0 {
-		return a
-	}
-	return gcd(b, a%b)
-}
-
-func twodarray(m, n int) [][]int {
-	res := make([][]int, m)
-	for i := range res {
-		res[i] = make([]int, n)
-	}
-	return res
 }

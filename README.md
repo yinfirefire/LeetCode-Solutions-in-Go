@@ -16,6 +16,7 @@ In honor of Kobe - Jan 26th, 2020
 
  No. | Name | Type |
 --- | --- | ---
+1344 | [Jump Game V][1344] | DP
 1335 | [Minimum Difficulty of a Job Schedule][1335] *| DP
 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance][1334] *| DP, Floyd-Warshall
 1320 | [Minimum Distance to Type a Word Using Two Fingers][1320] *| DP
@@ -126,6 +127,7 @@ In honor of Kobe - Jan 26th, 2020
 1297 | [Maximum Number of Occurrences of a Substring][1297] | Sliding Window
 1151 | [Minimum Swaps to Group All 1's Together][1151] | Sliding Window
 1031 | [Maximum Sum of Two Non-Overlapping Subarrays][1031] *| Sliding Window
+1343 | [Maximum Product of Splitted Binary Tree][1343] | Binary Tree
 1325 | [Delete Leaves With a Given Value][1325] | Binary Tree
 1315 | [Sum of Nodes with Even-Valued Grandparent][1315] *| Binary Tree
 1319 | [Number of Operations to Make Network Connected][1319] | Union Find
@@ -243,5 +245,7 @@ In honor of Kobe - Jan 26th, 2020
 [903]: ./Problems/903.%20Valid%20Permutations%20for%20DI%20Sequence/
 [1220]: ./Problems/1220.%20Count%20Vowels%20Permutation/
 [17]: ./Problems/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/
+[1344]: ./Problems/1344.%20Jump%20Game%20V/
+[1343]: ./Problems/1343.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/
 
 * Nice Question
