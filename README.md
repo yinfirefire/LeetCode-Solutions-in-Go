@@ -107,6 +107,7 @@ In honor of Kobe - Jan 26th, 2020
 753 | [Cracking the Safe][753] *| BackTrack
 131 | [Palindrome Partitioning][131] | BackTrack
 1307 | [Verbal Arithmetic Puzzle][1307] *| BackTrack
+40 | [Combination Sum II][40] *| BackTrack
 369 | [Plus One Linked List][369] | Linked List
 206 | [Reverse LinkedList][206] | Linked List
 23 | [Merge K Sorted Lists][23] | Linked List
@@ -247,5 +248,6 @@ In honor of Kobe - Jan 26th, 2020
 [17]: ./Problems/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/
 [1344]: ./Problems/1344.%20Jump%20Game%20V/
 [1343]: ./Problems/1343.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/
+[40]: ./Problems/40.%20Combination%20Sum%20II/
 
 * Nice Question
