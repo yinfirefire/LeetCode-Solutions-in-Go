@@ -22,6 +22,7 @@ In honor of Kobe - Jan 26th, 2020
 1320 | [Minimum Distance to Type a Word Using Two Fingers][1320] *| DP
 1312 | [Minimum Insertion Steps to Make a String Palindrome][1312] *| DP
 1301 | [Number of Paths with Max Score][1301] | DP
+1289 | [Minimum Falling Path Sum II][1289] | DP
 1278 | [Palindrome Partitioning III][1278] *| DP
 1223 | [Dice Roll Simulation][1223] *| DP
 1220 | [Count Vowels Permutation][1220] *| DP
@@ -251,5 +252,6 @@ In honor of Kobe - Jan 26th, 2020
 [1343]: ./Problems/1343.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/
 [40]: ./Problems/40.%20Combination%20Sum%20II/
 [1286]: ./Problems/1286.%20Iterator%20for%20Combination/
+[1289]: ./Problems/1289.%20Minimum%20Falling%20Path%20Sum%20II/
 
 * Nice Question
