@@ -132,6 +132,7 @@ In honor of Kobe - Jan 26th, 2020
 1325 | [Delete Leaves With a Given Value][1325] | Binary Tree
 1315 | [Sum of Nodes with Even-Valued Grandparent][1315] *| Binary Tree
 1319 | [Number of Operations to Make Network Connected][1319] | Union Find
+1286 | [Iterator for Combination][1286] | Iterator
 
 [1298]: ./Problems/1298.%20Maximum%20Candies%20You%20Can%20Get%20from%20Boxes/
 [1293]: ./Problems/1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination/
@@ -249,5 +250,6 @@ In honor of Kobe - Jan 26th, 2020
 [1344]: ./Problems/1344.%20Jump%20Game%20V/
 [1343]: ./Problems/1343.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/
 [40]: ./Problems/40.%20Combination%20Sum%20II/
+[1286]: ./Problems/1286.%20Iterator%20for%20Combination/
 
 * Nice Question
