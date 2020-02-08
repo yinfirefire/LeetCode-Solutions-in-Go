@@ -16,7 +16,7 @@ In honor of Kobe - Jan 26th, 2020
 
  No. | Name | Type |
 --- | --- | ---
-1344 | [Jump Game V][1344] | DP
+1340 | [Jump Game V][1340] | DP
 1335 | [Minimum Difficulty of a Job Schedule][1335] *| DP
 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance][1334] *| DP, Floyd-Warshall
 1320 | [Minimum Distance to Type a Word Using Two Fingers][1320] *| DP
@@ -86,6 +86,7 @@ In honor of Kobe - Jan 26th, 2020
 1009 | [Complement of Base 10 Integer][1009] | Bit Manipulation
 1318 | [Minimum Flips to Make a OR b Equal to c][1318] | Bit Manipulation
 810 | [Chalkboard XOR Game][810] | Bit Manipulation (XOR), Math
+1345 | [Jump Game IV][1345] *| BFS
 1311 | [Get Watched Videos by Your Friends][1311] | BFS, Comparator
 1298 | [Maximum Candies You Can Get from Boxes][1298] | BFS
 1293 | [Shortest Path in a Grid with Obstacles Elimination][1293] | BFS
@@ -129,7 +130,7 @@ In honor of Kobe - Jan 26th, 2020
 1297 | [Maximum Number of Occurrences of a Substring][1297] | Sliding Window
 1151 | [Minimum Swaps to Group All 1's Together][1151] | Sliding Window
 1031 | [Maximum Sum of Two Non-Overlapping Subarrays][1031] *| Sliding Window
-1343 | [Maximum Product of Splitted Binary Tree][1343] | Binary Tree
+1339 | [Maximum Product of Splitted Binary Tree][1339] | Binary Tree
 1325 | [Delete Leaves With a Given Value][1325] | Binary Tree
 1315 | [Sum of Nodes with Even-Valued Grandparent][1315] *| Binary Tree
 1319 | [Number of Operations to Make Network Connected][1319] | Union Find
@@ -248,10 +249,12 @@ In honor of Kobe - Jan 26th, 2020
 [903]: ./Problems/903.%20Valid%20Permutations%20for%20DI%20Sequence/
 [1220]: ./Problems/1220.%20Count%20Vowels%20Permutation/
 [17]: ./Problems/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/
-[1344]: ./Problems/1344.%20Jump%20Game%20V/
-[1343]: ./Problems/1343.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/
+[1340]: ./Problems/1340.%20Jump%20Game%20V/
+[1339]: ./Problems/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/
 [40]: ./Problems/40.%20Combination%20Sum%20II/
 [1286]: ./Problems/1286.%20Iterator%20for%20Combination/
 [1289]: ./Problems/1289.%20Minimum%20Falling%20Path%20Sum%20II/
+[1344]: ./Problems/1344.%20Angle%20Between%20Hands%20of%20a%20Clock/
+[1345]: ./Problems/1345.%20Jump%20Game%20IV/
 
 * Nice Question
