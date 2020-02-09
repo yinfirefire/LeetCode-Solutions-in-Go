@@ -16,6 +16,7 @@ In honor of Kobe - Jan 26th, 2020
 
  No. | Name | Type |
 --- | --- | ---
+1349 | [Maximum Students Taking Exam][1349] *| DP, BitMask
 1340 | [Jump Game V][1340] | DP
 1335 | [Minimum Difficulty of a Job Schedule][1335] *| DP
 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance][1334] *| DP, Floyd-Warshall
@@ -258,5 +259,6 @@ In honor of Kobe - Jan 26th, 2020
 [1344]: ./Problems/1344.%20Angle%20Between%20Hands%20of%20a%20Clock/
 [1345]: ./Problems/1345.%20Jump%20Game%20IV/
 [1342]: ./Problems/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/
+[1349]: ./Problems/1349.%20Maximum%20Students%20Taking%20Exam/
 
 * Nice Question
