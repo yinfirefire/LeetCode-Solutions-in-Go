@@ -82,6 +82,7 @@ In honor of Kobe - Jan 26th, 2020
 67 | [Add Binary][67] *| Math
 60 | [Permutation Sequence][60] | Math
 1086 | [High Five][1086] | Comparator
+1342 | [Number of Steps to Reduce a Number to Zero][1342] | Bit Manipulation
 1310 | [XOR Queries of a Subarray][1310] | Bit Manipulation (XOR)
 1009 | [Complement of Base 10 Integer][1009] | Bit Manipulation
 1318 | [Minimum Flips to Make a OR b Equal to c][1318] | Bit Manipulation
@@ -256,5 +257,6 @@ In honor of Kobe - Jan 26th, 2020
 [1289]: ./Problems/1289.%20Minimum%20Falling%20Path%20Sum%20II/
 [1344]: ./Problems/1344.%20Angle%20Between%20Hands%20of%20a%20Clock/
 [1345]: ./Problems/1345.%20Jump%20Game%20IV/
+[1342]: ./Problems/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/
 
 * Nice Question
