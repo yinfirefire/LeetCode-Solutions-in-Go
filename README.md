@@ -136,6 +136,7 @@ In honor of Kobe - Jan 26th, 2020
 1325 | [Delete Leaves With a Given Value][1325] | Binary Tree
 1315 | [Sum of Nodes with Even-Valued Grandparent][1315] *| Binary Tree
 1319 | [Number of Operations to Make Network Connected][1319] | Union Find
+990 | [Satisfiability of Equality Equations][990] | Union Find
 1286 | [Iterator for Combination][1286] | Iterator
 
 [1298]: ./Problems/1298.%20Maximum%20Candies%20You%20Can%20Get%20from%20Boxes/
@@ -260,5 +261,6 @@ In honor of Kobe - Jan 26th, 2020
 [1345]: ./Problems/1345.%20Jump%20Game%20IV/
 [1342]: ./Problems/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/
 [1349]: ./Problems/1349.%20Maximum%20Students%20Taking%20Exam/
+[990]: ./Problems/990.%20Satisfiability%20of%20Equality%20Equations/
 
 * Nice Question
