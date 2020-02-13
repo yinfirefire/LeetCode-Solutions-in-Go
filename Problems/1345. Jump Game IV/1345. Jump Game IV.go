@@ -47,7 +47,3 @@ func minJumps(arr []int) int {
 	}
 	return -1
 }
-
-func main() {
-	minJumps([]int{100, -23, -23, 404, 100, 23, 23, 23, 3, 404})
-}
