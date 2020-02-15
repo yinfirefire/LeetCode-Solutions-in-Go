@@ -138,6 +138,7 @@ In honor of Kobe - Jan 26th, 2020
 1319 | [Number of Operations to Make Network Connected][1319] | Union Find
 990 | [Satisfiability of Equality Equations][990] | Union Find
 959 | [Regions Cut By Slashes][959] *| Union Find
+765 | [Couples Holding Hands][765] *| Union Find
 1286 | [Iterator for Combination][1286] | Iterator
 
 [1298]: ./Problems/1298.%20Maximum%20Candies%20You%20Can%20Get%20from%20Boxes/
@@ -264,5 +265,6 @@ In honor of Kobe - Jan 26th, 2020
 [1349]: ./Problems/1349.%20Maximum%20Students%20Taking%20Exam/
 [990]: ./Problems/990.%20Satisfiability%20of%20Equality%20Equations/
 [959]: ./Problems/959.%20Regions%20Cut%20By%20Slashes%20/
+[765]: ./Problems/765.%20Couples%20Holding%20Hands/
 
 * Nice Question
