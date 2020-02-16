@@ -1,18 +1,39 @@
 package main
 
-func removeStones(stones [][]int) int {
-	xset := make(map[int]bool)
-	yset := make(map[int]bool)
-	islands := 0
-	for i := range stones {
-		x := stones[i][0]
-		y := stones[i][1]
-		if !xset[x] && !yset[y] {
+import (
+	"strconv"
+)
 
-			islands += 1
-		}
-		xset[x] = true
-		yset[y] = true
+var cnt = 0
+
+func removeStones(stones [][]int) int {
+	cnt = 0
+	root := make(map[string]string)
+	for i := range stones {
+		x := strconv.Itoa(stones[i][0]) + "X"
+		y := strconv.Itoa(stones[i][1]) + "Y"
+		connect(root, x, y)
 	}
-	return len(stones) - islands
+
+	return len(stones) - cnt
+}
+
+func find(root map[string]string, a string) string {
+	if _, ok := root[a]; !ok {
+		cnt++
+		root[a] = a
+	}
+	if root[a] != a {
+		root[a] = find(root, root[a])
+	}
+	return root[a]
+}
+
+func connect(root map[string]string, a, b string) {
+	ra := find(root, a)
+	rb := find(root, b)
+	if ra != rb {
+		cnt--
+		root[ra] = rb
+	}
 }

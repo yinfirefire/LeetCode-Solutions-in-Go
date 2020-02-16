@@ -124,6 +124,7 @@ In honor of Kobe - Jan 26th, 2020
 1314 | [Matrix Block Sum][1314] | Array
 1021 | [Remove Outermost Parentheses][1021] | Array
 910 | [Smallest Range II][910] | Array
+128 | [Longest Consecutive Sequence][128] *| Array
 1328 | [Break a Palindrome][1328] | String
 567 | [Permutation in String][567] | String
 678 | [Valid Parenthesis String][678] | String
@@ -138,6 +139,7 @@ In honor of Kobe - Jan 26th, 2020
 1319 | [Number of Operations to Make Network Connected][1319] | Union Find
 990 | [Satisfiability of Equality Equations][990] | Union Find
 959 | [Regions Cut By Slashes][959] *| Union Find
+947 | [Most Stones Removed with the Same Row or Column][947] *| Union Find
 765 | [Couples Holding Hands][765] *| Union Find
 1286 | [Iterator for Combination][1286] | Iterator
 
@@ -266,5 +268,7 @@ In honor of Kobe - Jan 26th, 2020
 [990]: ./Problems/990.%20Satisfiability%20of%20Equality%20Equations/
 [959]: ./Problems/959.%20Regions%20Cut%20By%20Slashes%20/
 [765]: ./Problems/765.%20Couples%20Holding%20Hands/
+[128]: ./Problems/128.%20Longest%20Consecutive%20Sequence/
+[947]: ./Problems/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column/
 
 * Nice Question
