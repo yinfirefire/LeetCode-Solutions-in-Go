@@ -31,6 +31,7 @@ In honor of Kobe - Jan 26th, 2020
 132 | [Palindrome Partitioning II][132] | DP
 1066 | [Campus Bikes II][1066] *| DP
 1354 | [Construct Target Array With Multiple Sums][1354] *| Priority Queue
+1353 | [Maximum Number of Events That Can Be Attended][1353] *| Priority Queue
 1057 | [Campus Bikes ][1057] | Priority Queue 
 973 | [K Closest Points to Origin][973] | Priority Queue
 215 | [Kth Largest Element in an Array][215] | Priority Queue
@@ -274,5 +275,6 @@ In honor of Kobe - Jan 26th, 2020
 [947]: ./Problems/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column/
 [1352]: ./Problems/1352.%20Product%20of%20the%20Last%20K%20Numbers/
 [1354]: ./Problems/1354.%20Construct%20Target%20Array%20With%20Multiple%20Sums/
+[1353]: ./Problems/1353.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended/
 
 * Nice Question
