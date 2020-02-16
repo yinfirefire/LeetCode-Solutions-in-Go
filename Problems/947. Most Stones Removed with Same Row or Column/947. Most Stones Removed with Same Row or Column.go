@@ -4,6 +4,9 @@ import (
 	"strconv"
 )
 
+/*
+	Taking each axis position as a node, and a stone connects x and y axis
+*/
 var cnt = 0
 
 func removeStones(stones [][]int) int {
