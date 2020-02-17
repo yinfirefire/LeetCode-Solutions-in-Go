@@ -143,6 +143,7 @@ In honor of Kobe - Jan 26th, 2020
 990 | [Satisfiability of Equality Equations][990] | Union Find
 959 | [Regions Cut By Slashes][959] *| Union Find
 947 | [Most Stones Removed with the Same Row or Column][947] *| Union Find
+924 | [Minimize Malware Spread][924] | Union Find
 765 | [Couples Holding Hands][765] *| Union Find
 1286 | [Iterator for Combination][1286] | Iterator
 
@@ -276,5 +277,6 @@ In honor of Kobe - Jan 26th, 2020
 [1352]: ./Problems/1352.%20Product%20of%20the%20Last%20K%20Numbers/
 [1354]: ./Problems/1354.%20Construct%20Target%20Array%20With%20Multiple%20Sums/
 [1353]: ./Problems/1353.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended/
+[924]: ./Problems/924.%20Minimize%20Malware%20Spread/
 
 * Nice Question
