@@ -44,6 +44,7 @@ In honor of Kobe - Jan 26th, 2020
 1291 | [Sequential Digits][1291] | Math
 1262 | [Greatest Sum Divisible by Three][1262] | Math
 1238 | [Circular Permutation in Binary Representation][1238] | Math
+1201 | [Ugly Number III][1201] *| Math, GCD, LCM
 1175 | [Prime Arrangements][1175] | Math
 1103 | [Distribute Candies to People][1103] | Math
 1093 | [Statistics from a Large Sample][1093] | Math
@@ -279,5 +280,7 @@ In honor of Kobe - Jan 26th, 2020
 [1354]: ./Problems/1354.%20Construct%20Target%20Array%20With%20Multiple%20Sums/
 [1353]: ./Problems/1353.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended/
 [924]: ./Problems/924.%20Minimize%20Malware%20Spread/
+[1201]: ./Problems/1201.%20Ugly%20Number%20III/
+[264]: ./Problems/264.%20Ugly%20Number%20II/
 
 * Nice Question
