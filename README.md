@@ -29,6 +29,7 @@ In honor of Kobe - Jan 26th, 2020
 1220 | [Count Vowels Permutation][1220] *| DP
 903 | [Valid Permutations for DI Sequence][903] *| DP
 132 | [Palindrome Partitioning II][132] | DP
+264 | [Ugly Number II][264] *| DP
 1066 | [Campus Bikes II][1066] *| DP
 1354 | [Construct Target Array With Multiple Sums][1354] *| Priority Queue
 1353 | [Maximum Number of Events That Can Be Attended][1353] *| Priority Queue
