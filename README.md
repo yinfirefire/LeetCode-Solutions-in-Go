@@ -284,5 +284,6 @@ In honor of Kobe - Jan 26th, 2020
 [1201]: ./Problems/1201.%20Ugly%20Number%20III/
 [264]: ./Problems/264.%20Ugly%20Number%20II/
 [837]: ./Problems/837.%20New%2021%20Game/
+[174]: ./Problems/174.%20Dungeon%20Game/
 
 * Nice Question
