@@ -1,5 +1,4 @@
-# Go Solution for LeetCode (Weekly Contest 173 Updated)
-
+# Go Solution for LeetCode
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Go](https://img.shields.io/badge/Go-1.12-blue.svg)](https://golang.org)
 
@@ -28,8 +27,10 @@ In honor of Kobe - Jan 26th, 2020
 1223 | [Dice Roll Simulation][1223] *| DP
 1220 | [Count Vowels Permutation][1220] *| DP
 903 | [Valid Permutations for DI Sequence][903] *| DP
+837 | [New 21 Game][837] *| DP
 132 | [Palindrome Partitioning II][132] | DP
 264 | [Ugly Number II][264] *| DP
+174 | [Dungeon Game][174] *| DP
 1066 | [Campus Bikes II][1066] *| DP
 1354 | [Construct Target Array With Multiple Sums][1354] *| Priority Queue
 1353 | [Maximum Number of Events That Can Be Attended][1353] *| Priority Queue
@@ -282,5 +283,6 @@ In honor of Kobe - Jan 26th, 2020
 [924]: ./Problems/924.%20Minimize%20Malware%20Spread/
 [1201]: ./Problems/1201.%20Ugly%20Number%20III/
 [264]: ./Problems/264.%20Ugly%20Number%20II/
+[837]: ./Problems/837.%20New%2021%20Game/
 
 * Nice Question

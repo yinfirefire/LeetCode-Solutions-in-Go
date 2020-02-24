@@ -1,31 +1,115 @@
 package main
 
-type ProductOfNumbers struct {
-	prefixProd []int
-	lastZero   int
-}
+import (
+	"fmt"
+	"sort"
+	"strings"
+)
 
-func Constructor() ProductOfNumbers {
-	return ProductOfNumbers{[]int{1}, 0}
-}
-
-func (this *ProductOfNumbers) Add(num int) {
-	if num == 0 {
-		this.prefixProd = append(this.prefixProd, 1)
-		this.lastZero = len(this.prefixProd) - 1
+func largestMultipleOfThree(digits []int) string {
+	sum := 0
+	sort.Slice(digits, func(a, b int) bool {
+		return digits[a] > digits[b]
+	})
+	if digits[0] == 0 {
+		return "0"
+	}
+	use := make([]int, len(digits))
+	for i := range digits {
+		sum += digits[i]
+		use[i] = 0
+	}
+	idx := len(digits) - 1
+	mod := sum % 3
+	cum := 0
+	m1 := false
+	m2 := false
+	if mod == 0 {
+		rs := strings.Builder{}
+		for i := range digits {
+			rs.WriteByte(byte('0' + digits[i]))
+		}
+		return rs.String()
+	}
+	for sum%3 != 0 {
+		if idx < 0 {
+			if !m1 && !m2 {
+				return ""
+			} else {
+				break
+			}
+		}
+		if digits[idx] == 0 {
+			idx--
+			continue
+		}
+		if digits[idx]%3 == mod {
+			if !m1 {
+				use[idx] = 1
+				m1 = true
+			}
+		} else {
+			if !m2 {
+				if digits[idx]%3 != 0 {
+					use[idx] = 2
+					cum += digits[idx] % 3
+				}
+				if cum%3 == mod {
+					m2 = true
+				}
+			}
+		}
+		idx--
+	}
+	sb1 := strings.Builder{}
+	if m1 {
+		c1 := 0
+		for i := range digits {
+			if use[i] == 0 || use[i] == 2 {
+				if use[i] == 2 {
+					c1++
+				}
+				sb1.WriteByte(byte('0' + digits[i]))
+			}
+		}
+		if c1 == len(sb1.String()) {
+			sb1 = strings.Builder{}
+		}
+	}
+	sb2 := strings.Builder{}
+	if m2 {
+		c2 := 0
+		for i := range digits {
+			if use[i] == 0 || use[i] == 1 {
+				if use[i] == 1 {
+					c2 += 1
+				}
+				sb2.WriteByte(byte('0' + digits[i]))
+			}
+		}
+		if c2 == len(sb2.String()) {
+			sb2 = strings.Builder{}
+		}
+	}
+	if sb1.Len() > sb2.Len() {
+		return sb1.String()
+	} else if sb1.Len() < sb2.Len() {
+		return sb2.String()
+	}
+	if strings.Compare(sb1.String(), sb2.String()) > 0 {
+		return sb1.String()
 	} else {
-		this.prefixProd = append(this.prefixProd, this.prefixProd[len(this.prefixProd)-1]*num)
+		return sb2.String()
 	}
 }
 
-func (this *ProductOfNumbers) GetProduct(k int) int {
-	start := len(this.prefixProd) - 1 - k
-	if this.lastZero > start {
-		return 0
-	}
-	return this.prefixProd[len(this.prefixProd)-1] / this.prefixProd[start]
-}
 func main() {
+	fmt.Print(largestMultipleOfThree([]int{1, 1, 1, 2}))
+	fmt.Println(largestMultipleOfThree([]int{5, 8}))
+	fmt.Println(largestMultipleOfThree([]int{9, 8, 8, 6, 6}))
+	fmt.Println(largestMultipleOfThree([]int{9, 7, 6, 6, 5, 5}))
+	fmt.Println(largestMultipleOfThree([]int{8, 6, 7, 1, 0}))
+
 }
 
 func abs(a int) int {
