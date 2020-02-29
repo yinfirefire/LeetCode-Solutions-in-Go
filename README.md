@@ -30,6 +30,7 @@ In honor of Kobe - Jan 26th, 2020
 837 | [New 21 Game][837] *| DP
 576 | [Out of Boundary Paths][576] | DP
 518 | [Coin Change 2][518] *| DP
+474 | [Ones and Zeroes][474] *| DP
 132 | [Palindrome Partitioning II][132] | DP
 264 | [Ugly Number II][264] *| DP
 174 | [Dungeon Game][174] *| DP
@@ -289,5 +290,6 @@ In honor of Kobe - Jan 26th, 2020
 [174]: ./Problems/174.%20Dungeon%20Game/
 [576]: ./Problems/576.%20Out%20of%20Boundary%20Paths/
 [518]: ./Problems/518.%20Coin%20Change%202/
+[474]: ./Problems/474.%20Ones%20and%20Zeroes/
 
 * Nice Question
