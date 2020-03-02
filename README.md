@@ -91,6 +91,7 @@ In honor of Kobe - Jan 26th, 2020
 89 | [Gray Code][89] *| Math
 67 | [Add Binary][67] *| Math
 60 | [Permutation Sequence][60] | Math
+1366 | [Rank Team by Votes][1366] *| Comparator
 1086 | [High Five][1086] | Comparator
 1342 | [Number of Steps to Reduce a Number to Zero][1342] | Bit Manipulation
 1310 | [XOR Queries of a Subarray][1310] | Bit Manipulation (XOR)
