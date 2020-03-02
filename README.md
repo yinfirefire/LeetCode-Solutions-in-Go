@@ -26,6 +26,7 @@ In honor of Kobe - Jan 26th, 2020
 1278 | [Palindrome Partitioning III][1278] *| DP
 1223 | [Dice Roll Simulation][1223] *| DP
 1220 | [Count Vowels Permutation][1220] *| DP
+956 | [Tallest Billboard][956] *| DP
 903 | [Valid Permutations for DI Sequence][903] *| DP
 837 | [New 21 Game][837] *| DP
 576 | [Out of Boundary Paths][576] | DP
@@ -291,5 +292,6 @@ In honor of Kobe - Jan 26th, 2020
 [576]: ./Problems/576.%20Out%20of%20Boundary%20Paths/
 [518]: ./Problems/518.%20Coin%20Change%202/
 [474]: ./Problems/474.%20Ones%20and%20Zeroes/
+[956]: ./Problems/956.%20Tallest%20Billboard/
 
 * Nice Question
