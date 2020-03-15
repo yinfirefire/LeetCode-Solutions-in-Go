@@ -125,6 +125,7 @@ In honor of Kobe - Jan 26th, 2020
 369 | [Plus One Linked List][369] | Linked List
 206 | [Reverse LinkedList][206] | Linked List
 23 | [Merge K Sorted Lists][23] | Linked List
+1383 | [Maximum Performance of a Team][1383] | Greedy
 1326 | [Minimum Number of Taps to Open to Water a Garden][1326] | Greedy
 1024 | [Video Stitching][1024] | Greedy
 927 | [Three Equal Parts][927] | Greedy
@@ -294,5 +295,7 @@ In honor of Kobe - Jan 26th, 2020
 [518]: ./Problems/518.%20Coin%20Change%202/
 [474]: ./Problems/474.%20Ones%20and%20Zeroes/
 [956]: ./Problems/956.%20Tallest%20Billboard/
+[1366]: ./Problems/1366.%20Rank%20Teams%20by%20Votes/
+[1383]: ./Problems/1383.%20Maximum%20Performance%20of%20a%20Team/
 
 * Nice Question
