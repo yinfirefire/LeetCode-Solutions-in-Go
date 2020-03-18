@@ -29,6 +29,7 @@ In honor of Kobe - Jan 26th, 2020
 956 | [Tallest Billboard][956] *| DP
 903 | [Valid Permutations for DI Sequence][903] *| DP
 837 | [New 21 Game][837] *| DP
+664 | [Strange Printer][664] | DP
 576 | [Out of Boundary Paths][576] | DP
 518 | [Coin Change 2][518] *| DP
 474 | [Ones and Zeroes][474] *| DP
@@ -145,6 +146,7 @@ In honor of Kobe - Jan 26th, 2020
 1297 | [Maximum Number of Occurrences of a Substring][1297] | Sliding Window
 1151 | [Minimum Swaps to Group All 1's Together][1151] | Sliding Window
 1031 | [Maximum Sum of Two Non-Overlapping Subarrays][1031] *| Sliding Window
+1373 | [Maximum Sum BST in Binary Tree][1373] *| Binary Tree
 1339 | [Maximum Product of Splitted Binary Tree][1339] | Binary Tree
 1325 | [Delete Leaves With a Given Value][1325] | Binary Tree
 1315 | [Sum of Nodes with Even-Valued Grandparent][1315] *| Binary Tree
@@ -297,5 +299,7 @@ In honor of Kobe - Jan 26th, 2020
 [956]: ./Problems/956.%20Tallest%20Billboard/
 [1366]: ./Problems/1366.%20Rank%20Teams%20by%20Votes/
 [1383]: ./Problems/1383.%20Maximum%20Performance%20of%20a%20Team/
+[664]: ./Problems/664.%20Strange%20Printer/
+[1373]: ./Problems/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree/
 
 * Nice Question
