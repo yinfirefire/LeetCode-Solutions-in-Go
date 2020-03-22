@@ -150,6 +150,7 @@ In honor of Kobe - Jan 26th, 2020
 1339 | [Maximum Product of Splitted Binary Tree][1339] | Binary Tree
 1325 | [Delete Leaves With a Given Value][1325] | Binary Tree
 1315 | [Sum of Nodes with Even-Valued Grandparent][1315] *| Binary Tree
+1391 | [Check if There is a Valid Path in a Grid][1391] | Union Find
 1319 | [Number of Operations to Make Network Connected][1319] | Union Find
 990 | [Satisfiability of Equality Equations][990] | Union Find
 959 | [Regions Cut By Slashes][959] *| Union Find
@@ -157,6 +158,7 @@ In honor of Kobe - Jan 26th, 2020
 924 | [Minimize Malware Spread][924] | Union Find
 765 | [Couples Holding Hands][765] *| Union Find
 1286 | [Iterator for Combination][1286] | Iterator
+1392 | [Longest Happy Prefix][1392] *| KMP
 
 [1298]: ./Problems/1298.%20Maximum%20Candies%20You%20Can%20Get%20from%20Boxes/
 [1293]: ./Problems/1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination/
@@ -301,5 +303,7 @@ In honor of Kobe - Jan 26th, 2020
 [1383]: ./Problems/1383.%20Maximum%20Performance%20of%20a%20Team/
 [664]: ./Problems/664.%20Strange%20Printer/
 [1373]: ./Problems/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree/
+[1392]: ./Problems/1392.%20Longest%20Happy%20Prefix/
+[1391]: ./Problems/1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/
 
 * Nice Question

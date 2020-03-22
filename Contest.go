@@ -1,49 +1,46 @@
 package main
 
-import "fmt"
+func longestPrefix(s string) string {
+	pmt := getPMT(s)
+	n := len(s)
+	if n < 2 {
+		return ""
+	}
+	if pmt[n-1] == 0 {
+		return ""
+	}
+	for i := range pmt {
+		if pmt[i] == pmt[n-1] {
+			return s[0:pmt[i]]
+		}
+	}
+	return ""
+}
 
-func maxPerformance(n int, speed []int, efficiency []int, k int) int {
-	used := make([]bool, n)
-	res := 0
-	first := -1
-	mod := int(1e9 + 7)
-	for i := range speed {
-		if speed[i]*efficiency[i] > res {
-			res = speed[i] * efficiency[i]
-			res %= mod
-			first = i
+func getPMT(s string) []int {
+	n := len(s)
+	pmt := make([]int, n)
+	pmt[0] = 0
+	i := 1
+	j := 0
+	for i < n {
+		if s[i] == s[j] {
+			pmt[i] = j + 1
+			j++
+			i++
+		} else if j == 0 {
+			pmt[i] = 0
+			i++
+		} else {
+			j = pmt[j-1]
 		}
 	}
-	eff := efficiency[first]
-	used[first] = true
-	temp := res
-	cureff := eff
-	for i := 1; i < k; i++ {
-		add := -1
-		for j := range speed {
-			if !used[j] {
-				cureff = min(eff, efficiency[j])
-				newtemp := res/eff*cureff + cureff*speed[j]
-				newtemp %= mod
-				if newtemp > temp {
-					add = j
-					temp = newtemp
-				}
-			}
-		}
-		if add == -1 {
-			return res
-		}
-		eff = min(eff, efficiency[add])
-		res = temp
-		used[add] = true
-	}
-	return temp
+	return pmt
 }
 
 func main() {
-	fmt.Println(maxPerformance(6, []int{2, 10, 3, 1, 5, 8}, []int{5, 4, 3, 9, 7, 2}, 3))
-	fmt.Println(maxPerformance(6, []int{2, 10, 3, 1, 5, 8}, []int{5, 4, 3, 9, 7, 2}, 4))
+	longestPrefix("babbb")
+
 }
 
 func abs(a int) int {
