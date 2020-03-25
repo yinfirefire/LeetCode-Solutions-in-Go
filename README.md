@@ -100,6 +100,7 @@ In honor of Kobe - Jan 26th, 2020
 1009 | [Complement of Base 10 Integer][1009] | Bit Manipulation
 1318 | [Minimum Flips to Make a OR b Equal to c][1318] | Bit Manipulation
 810 | [Chalkboard XOR Game][810] | Bit Manipulation (XOR), Math
+1368 | [Minimum Cost to Make at Least One Valid Path in a Grid][1368] *| BFS+DFS
 1345 | [Jump Game IV][1345] *| BFS
 1311 | [Get Watched Videos by Your Friends][1311] | BFS, Comparator
 1298 | [Maximum Candies You Can Get from Boxes][1298] | BFS
@@ -307,5 +308,6 @@ In honor of Kobe - Jan 26th, 2020
 [1392]: ./Problems/1392.%20Longest%20Happy%20Prefix/
 [1391]: ./Problems/1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/
 [1388]: ./Problems/1388.%20Pizza%20WIth%203n%20Slices/
+[1368]: ./Problems/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid/
 
 * Nice Question
