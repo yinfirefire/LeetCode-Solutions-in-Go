@@ -15,6 +15,7 @@ In honor of Kobe - Jan 26th, 2020
 
  No. | Name | Type |
 --- | --- | ---
+1388 | [Pizza With 3n Slices][1388] *| DP
 1349 | [Maximum Students Taking Exam][1349] *| DP, BitMask
 1340 | [Jump Game V][1340] | DP
 1335 | [Minimum Difficulty of a Job Schedule][1335] *| DP
@@ -305,5 +306,6 @@ In honor of Kobe - Jan 26th, 2020
 [1373]: ./Problems/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree/
 [1392]: ./Problems/1392.%20Longest%20Happy%20Prefix/
 [1391]: ./Problems/1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/
+[1388]: ./Problems/1388.%20Pizza%20WIth%203n%20Slices/
 
 * Nice Question
