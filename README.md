@@ -100,6 +100,7 @@ In honor of Kobe - Jan 26th, 2020
 1310 | [XOR Queries of a Subarray][1310] | Bit Manipulation (XOR)
 1009 | [Complement of Base 10 Integer][1009] | Bit Manipulation
 1318 | [Minimum Flips to Make a OR b Equal to c][1318] | Bit Manipulation
+1178 | [Number of Valid Words for Each Puzzle][1178] *| Bit Manipulation
 810 | [Chalkboard XOR Game][810] | Bit Manipulation (XOR), Math
 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid][1368] *| BFS+DFS
 1345 | [Jump Game IV][1345] *| BFS
@@ -313,5 +314,6 @@ In honor of Kobe - Jan 26th, 2020
 [1368]: ./Problems/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid/
 [1358]: ./Problems/1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters/
 [1359]: ./Problems/1359.%20Count%20All%20Valid%20Pickup%20and%20Delivery%20Options/
+[1178]: ./Problems/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle/
 
 * Nice Question
