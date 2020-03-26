@@ -16,6 +16,7 @@ In honor of Kobe - Jan 26th, 2020
  No. | Name | Type |
 --- | --- | ---
 1388 | [Pizza With 3n Slices][1388] *| DP
+1359 | [Count All Valid Pickup and Delivery Options][1359] | DP
 1349 | [Maximum Students Taking Exam][1349] *| DP, BitMask
 1340 | [Jump Game V][1340] | DP
 1335 | [Minimum Difficulty of a Job Schedule][1335] *| DP
@@ -311,5 +312,6 @@ In honor of Kobe - Jan 26th, 2020
 [1388]: ./Problems/1388.%20Pizza%20WIth%203n%20Slices/
 [1368]: ./Problems/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid/
 [1358]: ./Problems/1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters/
+[1359]: ./Problems/1359.%20Count%20All%20Valid%20Pickup%20and%20Delivery%20Options/
 
 * Nice Question
