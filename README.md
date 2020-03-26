@@ -145,6 +145,7 @@ In honor of Kobe - Jan 26th, 2020
 1352 | [Product of the Last K Numbers][1352] | Array
 189 | [Rotate Array][189] | Array
 31 | [Next Permutation][31] | Array
+1358 | [Number of Substrings Containing All Three Characters][1358] | Sliding Window
 1297 | [Maximum Number of Occurrences of a Substring][1297] | Sliding Window
 1151 | [Minimum Swaps to Group All 1's Together][1151] | Sliding Window
 1031 | [Maximum Sum of Two Non-Overlapping Subarrays][1031] *| Sliding Window
@@ -309,5 +310,6 @@ In honor of Kobe - Jan 26th, 2020
 [1391]: ./Problems/1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/
 [1388]: ./Problems/1388.%20Pizza%20WIth%203n%20Slices/
 [1368]: ./Problems/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid/
+[1358]: ./Problems/1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters/
 
 * Nice Question
