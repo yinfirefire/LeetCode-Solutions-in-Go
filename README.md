@@ -49,6 +49,7 @@ In honor of Kobe - Jan 26th, 2020
 1153 | [String Transforms Into Another String][1153] *| Hashtable
 523 | [Continuous Subarray Sum][523] | Hashtable
 149 | [Max Points on a Line][149] *| Hashtable
+1330 | [Reverse Subarray TO Maximize Array Value][1330] *| Math
 1291 | [Sequential Digits][1291] | Math
 1262 | [Greatest Sum Divisible by Three][1262] | Math
 1238 | [Circular Permutation in Binary Representation][1238] | Math
@@ -315,5 +316,6 @@ In honor of Kobe - Jan 26th, 2020
 [1358]: ./Problems/1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters/
 [1359]: ./Problems/1359.%20Count%20All%20Valid%20Pickup%20and%20Delivery%20Options/
 [1178]: ./Problems/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle/
+[1330]: ./Problems/1330.%20Reverse%20Subarray%20To%20Maximize%20Array%20Value/
 
 * Nice Question
