@@ -46,6 +46,7 @@ In honor of Kobe - Jan 26th, 2020
 215 | [Kth Largest Element in an Array][215] | Priority Queue
 1224 | [Maximum Equal Frequency][1224] *| Hashtable
 1218 | [Longest Arithmetic Subsequence of Given Difference][1218] | Hashtable
+1169 | [Invalid Transactions][1169] | HashTable
 1153 | [String Transforms Into Another String][1153] *| Hashtable
 523 | [Continuous Subarray Sum][523] | Hashtable
 149 | [Max Points on a Line][149] *| Hashtable
@@ -317,5 +318,6 @@ In honor of Kobe - Jan 26th, 2020
 [1359]: ./Problems/1359.%20Count%20All%20Valid%20Pickup%20and%20Delivery%20Options/
 [1178]: ./Problems/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle/
 [1330]: ./Problems/1330.%20Reverse%20Subarray%20To%20Maximize%20Array%20Value/
+[1169]: ./Problems/1169.%20Invalid%20Transactions/
 
 * Nice Question
