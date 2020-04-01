@@ -31,6 +31,7 @@ In honor of Kobe - Jan 26th, 2020
 956 | [Tallest Billboard][956] *| DP
 903 | [Valid Permutations for DI Sequence][903] *| DP
 837 | [New 21 Game][837] *| DP
+727 | [Minimum Window Subsequence][727] *| DP
 664 | [Strange Printer][664] | DP
 634 | [Find the Derangement of An Array][634] *| DP
 576 | [Out of Boundary Paths][576] | DP
@@ -321,5 +322,6 @@ In honor of Kobe - Jan 26th, 2020
 [1330]: ./Problems/1330.%20Reverse%20Subarray%20To%20Maximize%20Array%20Value/
 [1169]: ./Problems/1169.%20Invalid%20Transactions/
 [634]: ./Problems/634.%20Find%20the%20Derangement%20of%20An%20Array/
+[727]: ./Problems/727.%20Minimum%20Window%20Subsequence/
 
 * Nice Question
