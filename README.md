@@ -55,6 +55,7 @@ In honor of Kobe - Jan 26th, 2020
 523 | [Continuous Subarray Sum][523] | Hashtable
 149 | [Max Points on a Line][149] *| Hashtable
 1402 | [Reducing Dishes][1402] | Math
+1400 | [Construct K Palindrome Strings][1400] *| Math
 1330 | [Reverse Subarray TO Maximize Array Value][1330] *| Math
 1291 | [Sequential Digits][1291] | Math
 1262 | [Greatest Sum Divisible by Three][1262] | Math
@@ -333,5 +334,6 @@ In honor of Kobe - Jan 26th, 2020
 [828]: ./Problems/828.%20Count%20Unique%20Characters%20of%20All%20Substrings%20of%20a%20Given%20String/
 [1402]: ./Problems/1402.%20Reducing%20Dishes/
 [368]: ./Problems/368.%20Largest%20Divisble%20Subset/
+[1400]: ./Problems/1400.%20Construct%20K%20Palindrome%20Strings/
 
 * Nice Question
