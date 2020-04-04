@@ -122,6 +122,7 @@ In honor of Kobe - Jan 26th, 2020
 127 | [Word Ladder][127] | BFS
 126 | [Word Ladder II][126] *| BFS
 17 | [Letter Combinations of a Phone Number][17] * | BFS
+329 | [Longest Increasing Path in a Matrix][329] *| TopoSort
 1292| [Maximum Side Length of a Square with Sum Less than or Equal to Threshold][1292] | Binary Search
 744 | [Find Smallest Letter Greater Than Target][744] | Binary Search
 287 | [Find the Duplicate Number][287] | Binary Search By Value
@@ -325,5 +326,6 @@ In honor of Kobe - Jan 26th, 2020
 [634]: ./Problems/634.%20Find%20the%20Derangement%20of%20An%20Array/
 [727]: ./Problems/727.%20Minimum%20Window%20Subsequence/
 [813]: ./Problems/813.%20Largest%20Sum%20of%20Averages/
+[329]: ./Problems/329.%20Longest%20Increasing%20Path/
 
 * Nice Question
