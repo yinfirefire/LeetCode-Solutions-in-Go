@@ -80,6 +80,7 @@ In honor of Kobe - Jan 26th, 2020
 858 | [Mirror Reflection][858] *| Math
 836 | [Rectangle Overlap][836] | Math
 829 | [Consecutive Numbers Sum][829] *| Math
+828 | [Count Unique Characters of All Substrings of a Given String][828] *| Math
 789 | [Escape The Ghosts][789] | Math
 780 | [Reaching Points][780] | Math
 775 | [Global and Local Inversions][775] | Math
@@ -327,5 +328,6 @@ In honor of Kobe - Jan 26th, 2020
 [727]: ./Problems/727.%20Minimum%20Window%20Subsequence/
 [813]: ./Problems/813.%20Largest%20Sum%20of%20Averages/
 [329]: ./Problems/329.%20Longest%20Increasing%20Path/
+[828]: ./Problems/828.%20Count%20Unique%20Characters%20of%20All%20Substrings%20of%20a%20Given%20String/
 
 * Nice Question

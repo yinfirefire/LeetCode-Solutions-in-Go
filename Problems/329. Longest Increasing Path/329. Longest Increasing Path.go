@@ -52,3 +52,51 @@ func longestIncreasingPath(matrix [][]int) int {
 	}
 	return res
 }
+
+var shift = []int{0, 1, 0, -1, 0}
+
+func longestIncreasingPath2(matrix [][]int) int {
+	m := len(matrix)
+	if m == 0 {
+		return 0
+	}
+	n := len(matrix[0])
+	if n == 0 {
+		return 0
+	}
+	mem := make([][]int, m)
+	for i := range mem {
+		mem[i] = make([]int, n)
+	}
+	res := 0
+	for i := range matrix {
+		for j := range matrix[i] {
+			res = max(res, helper(i, j, mem, matrix))
+		}
+	}
+	return res
+}
+
+func helper(x, y int, mem, matrix [][]int) int {
+	if mem[x][y] != 0 {
+		return mem[x][y]
+	}
+	res := 1
+	mx := 0
+	for i := 0; i < 4; i++ {
+		nx := x + shift[i]
+		ny := y + shift[i+1]
+		if nx >= 0 && ny >= 0 && nx < len(mem) && ny < len(mem[0]) && matrix[x][y] > matrix[nx][ny] {
+			mx = max(mx, helper(nx, ny, mem, matrix))
+		}
+	}
+	mem[x][y] = res + mx
+	return res + mx
+}
+
+func max(a, b int) int {
+	if a > b {
+		return a
+	}
+	return b
+}
