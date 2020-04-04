@@ -38,6 +38,7 @@ In honor of Kobe - Jan 26th, 2020
 576 | [Out of Boundary Paths][576] | DP
 518 | [Coin Change 2][518] *| DP
 474 | [Ones and Zeroes][474] *| DP
+368 | [Largest Divisible Subset][368] | DP
 132 | [Palindrome Partitioning II][132] | DP
 264 | [Ugly Number II][264] *| DP
 174 | [Dungeon Game][174] *| DP
@@ -53,6 +54,7 @@ In honor of Kobe - Jan 26th, 2020
 1153 | [String Transforms Into Another String][1153] *| Hashtable
 523 | [Continuous Subarray Sum][523] | Hashtable
 149 | [Max Points on a Line][149] *| Hashtable
+1402 | [Reducing Dishes][1402] | Math
 1330 | [Reverse Subarray TO Maximize Array Value][1330] *| Math
 1291 | [Sequential Digits][1291] | Math
 1262 | [Greatest Sum Divisible by Three][1262] | Math
@@ -329,5 +331,7 @@ In honor of Kobe - Jan 26th, 2020
 [813]: ./Problems/813.%20Largest%20Sum%20of%20Averages/
 [329]: ./Problems/329.%20Longest%20Increasing%20Path/
 [828]: ./Problems/828.%20Count%20Unique%20Characters%20of%20All%20Substrings%20of%20a%20Given%20String/
+[1402]: ./Problems/1402.%20Reducing%20Dishes/
+[368]: ./Problems/368.%20Largest%20Divisble%20Subset/
 
 * Nice Question
