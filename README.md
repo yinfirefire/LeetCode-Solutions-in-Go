@@ -40,6 +40,7 @@ In honor of Kobe - Jan 26th, 2020
 518 | [Coin Change 2][518] *| DP
 474 | [Ones and Zeroes][474] *| DP
 368 | [Largest Divisible Subset][368] | DP
+300 | [Longest Increasing Subsequence][300] | DP, binary search
 132 | [Palindrome Partitioning II][132] | DP
 264 | [Ugly Number II][264] *| DP
 174 | [Dungeon Game][174] *| DP
@@ -340,5 +341,6 @@ In honor of Kobe - Jan 26th, 2020
 [1400]: ./Problems/1400.%20Construct%20K%20Palindrome%20Strings/
 [1401]: ./Problems/1401.%20Circle%20and%20Rectangle%20Overlapping/
 [1404]: ./Problems/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/
+[300]: ./Problems/300.%20Longest%20Increasing%20Subsequence/
 
 * Nice Question
