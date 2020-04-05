@@ -15,6 +15,7 @@ In honor of Kobe - Jan 26th, 2020
 
  No. | Name | Type |
 --- | --- | ---
+1406 | [Stone Game III][1406] *| DP
 1388 | [Pizza With 3n Slices][1388] *| DP
 1359 | [Count All Valid Pickup and Delivery Options][1359] | DP
 1349 | [Maximum Students Taking Exam][1349] *| DP, BitMask
@@ -54,6 +55,7 @@ In honor of Kobe - Jan 26th, 2020
 1153 | [String Transforms Into Another String][1153] *| Hashtable
 523 | [Continuous Subarray Sum][523] | Hashtable
 149 | [Max Points on a Line][149] *| Hashtable
+1404 | [Number of Steps to Reduce a Number in Binary Representation to One][1404] | Math
 1402 | [Reducing Dishes][1402] | Math
 1401 | [Circle and Rectangle Overlapping][1401] *| Math, Geometry
 1400 | [Construct K Palindrome Strings][1400] *| Math
@@ -337,5 +339,6 @@ In honor of Kobe - Jan 26th, 2020
 [368]: ./Problems/368.%20Largest%20Divisble%20Subset/
 [1400]: ./Problems/1400.%20Construct%20K%20Palindrome%20Strings/
 [1401]: ./Problems/1401.%20Circle%20and%20Rectangle%20Overlapping/
+[1404]: ./Problems/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/
 
 * Nice Question
