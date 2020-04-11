@@ -31,6 +31,7 @@ In honor of Kobe - Jan 26th, 2020
 1220 | [Count Vowels Permutation][1220] *| DP
 956 | [Tallest Billboard][956] *| DP
 903 | [Valid Permutations for DI Sequence][903] *| DP
+887 | [Super Egg Drop][887] *| DP
 837 | [New 21 Game][837] *| DP
 813 | [Largest Sum of Averages][813] *| DP
 727 | [Minimum Window Subsequence][727] *| DP
@@ -39,6 +40,7 @@ In honor of Kobe - Jan 26th, 2020
 576 | [Out of Boundary Paths][576] | DP
 518 | [Coin Change 2][518] *| DP
 474 | [Ones and Zeroes][474] *| DP
+375 | [Guess Number Higher or Lower][375] *DP
 368 | [Largest Divisible Subset][368] | DP
 312 | [Burst Balloons][312] *| DP
 300 | [Longest Increasing Subsequence][300] | DP, binary search
@@ -344,5 +346,6 @@ In honor of Kobe - Jan 26th, 2020
 [1404]: ./Problems/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/
 [300]: ./Problems/300.%20Longest%20Increasing%20Subsequence/
 [312]: ./Problems/312.%20Burst%20Balloons/
+[887]: ./Problems/887.%20Super%20Egg%20Drop/
 
 * Nice Question
