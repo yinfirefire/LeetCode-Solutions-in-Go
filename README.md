@@ -15,6 +15,7 @@ In honor of Kobe - Jan 26th, 2020
 
  No. | Name | Type |
 --- | --- | ---
+1411 | [Number of Ways to Paint N * 3 Grid][1411] *| DP
 1406 | [Stone Game III][1406] *| DP
 1388 | [Pizza With 3n Slices][1388] *| DP
 1359 | [Count All Valid Pickup and Delivery Options][1359] | DP
@@ -347,5 +348,6 @@ In honor of Kobe - Jan 26th, 2020
 [300]: ./Problems/300.%20Longest%20Increasing%20Subsequence/
 [312]: ./Problems/312.%20Burst%20Balloons/
 [887]: ./Problems/887.%20Super%20Egg%20Drop/
+[1411]: ./Problems/1411.%20Number%20of%20Ways%20to%20Paint%20N%20*%203%20Grid/
 
 * Nice Question
