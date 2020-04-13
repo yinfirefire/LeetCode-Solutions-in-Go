@@ -349,5 +349,6 @@ In honor of Kobe - Jan 26th, 2020
 [312]: ./Problems/312.%20Burst%20Balloons/
 [887]: ./Problems/887.%20Super%20Egg%20Drop/
 [1411]: ./Problems/1411.%20Number%20of%20Ways%20to%20Paint%20N%20*%203%20Grid/
+[1406]: ./Problems/1406.%20Stone%20Game%20III/
 
 * Nice Question

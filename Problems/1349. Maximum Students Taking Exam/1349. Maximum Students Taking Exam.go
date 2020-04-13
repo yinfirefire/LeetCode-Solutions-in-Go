@@ -1,5 +1,56 @@
 package main
 
+func amxStudents2(seats [][]byte) int {
+	m := len(seats)
+	n := len(seats[0])
+	dp := make([][]int, m)
+	for i := range dp {
+		dp[i] = make([]int, 1<<uint(n))
+		for j := range dp[i] {
+			dp[i][j] = -1
+		}
+	}
+	dp[0][0] = 0
+	valid := make([]int, m)
+	for i := range seats {
+		cur := 0
+		for j := range seats[i] {
+			cur <<= 1
+			if seats[i][j] == '.' {
+				cur += 1
+			}
+		}
+		valid[i] = cur
+	}
+	validCnt := make([]int, 1<<uint(n))
+	validCnt[0] = 0
+	validCnt[1] = 1
+	for i := 2; i < 1<<uint(n); i++ {
+		validCnt[i] = validCnt[i/2]
+		if i%2 == 1 {
+			validCnt[i]++
+		}
+	}
+	for i := 1; i < m; i++ {
+		pos := valid[i]
+		for j := 1; j < 1<<uint(n); j++ {
+			if (j&pos) == j && ((j>>1)&j) == 0 {
+				//current row meets the requirement
+				for k := 0; k < 1<<uint(n); k++ {
+					if dp[i-1][k] != -1 && (j>>1)&k == 0 && (j<<1)&k == 0 {
+						dp[i][j] = max(dp[i][j], dp[i-1][k]+validCnt[j])
+					}
+				}
+			}
+		}
+	}
+	res := 0
+	for _, v := range dp[m] {
+		res = max(res, v)
+	}
+	return res
+}
+
 func maxStudents(seats [][]byte) int {
 	//bitMask, dp[i][mask] is the max student number of first i rows with the last row distribution status as mask
 	m := len(seats)
