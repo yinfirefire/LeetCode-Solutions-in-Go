@@ -41,7 +41,7 @@ In honor of Kobe - Jan 26th, 2020
 576 | [Out of Boundary Paths][576] | DP
 518 | [Coin Change 2][518] *| DP
 474 | [Ones and Zeroes][474] *| DP
-375 | [Guess Number Higher or Lower][375] *DP
+375 | [Guess Number Higher or Lower][375] *| DP
 368 | [Largest Divisible Subset][368] | DP
 312 | [Burst Balloons][312] *| DP
 300 | [Longest Increasing Subsequence][300] | DP, binary search
@@ -350,5 +350,6 @@ In honor of Kobe - Jan 26th, 2020
 [887]: ./Problems/887.%20Super%20Egg%20Drop/
 [1411]: ./Problems/1411.%20Number%20of%20Ways%20to%20Paint%20N%20*%203%20Grid/
 [1406]: ./Problems/1406.%20Stone%20Game%20III/
+[375]: ./Problems/375.%20Guess%20Number%20Higher%20or%20Lower%20II/
 
 * Nice Question
