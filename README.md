@@ -15,11 +15,11 @@ In honor of Kobe - Jan 26th, 2020
 
  No. | Name | Type |
 --- | --- | ---
-1411 | [Number of Ways to Paint N * 3 Grid][1411] *| DP
+1411 | [Number of Ways to Paint N * 3 Grid][1411] *| DP(State Compression)
 1406 | [Stone Game III][1406] *| DP
 1388 | [Pizza With 3n Slices][1388] *| DP
 1359 | [Count All Valid Pickup and Delivery Options][1359] | DP
-1349 | [Maximum Students Taking Exam][1349] *| DP, BitMask
+1349 | [Maximum Students Taking Exam][1349] *| DP(State Compression), BitMask
 1340 | [Jump Game V][1340] | DP
 1335 | [Minimum Difficulty of a Job Schedule][1335] *| DP
 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance][1334] *| DP, Floyd-Warshall
