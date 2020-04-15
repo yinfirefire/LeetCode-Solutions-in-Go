@@ -30,7 +30,9 @@ In honor of Kobe - Jan 26th, 2020
 1278 | [Palindrome Partitioning III][1278] *| DP
 1223 | [Dice Roll Simulation][1223] *| DP
 1220 | [Count Vowels Permutation][1220] *| DP
+1130 | [Minimum Cost Tree From Leaf Values][1130] *| DP
 956 | [Tallest Billboard][956] *| DP
+935 | [Knight Dialer][935] | DP
 903 | [Valid Permutations for DI Sequence][903] *| DP
 887 | [Super Egg Drop][887] *| DP
 837 | [New 21 Game][837] *| DP
@@ -351,5 +353,7 @@ In honor of Kobe - Jan 26th, 2020
 [1411]: ./Problems/1411.%20Number%20of%20Ways%20to%20Paint%20N%20*%203%20Grid/
 [1406]: ./Problems/1406.%20Stone%20Game%20III/
 [375]: ./Problems/375.%20Guess%20Number%20Higher%20or%20Lower%20II/
+[935]: ./Problems/935.%20Knight%20Dialer/
+[1130]: ./Problems/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values/
 
 * Nice Question
