@@ -28,6 +28,7 @@ In honor of Kobe - Jan 26th, 2020
 1301 | [Number of Paths with Max Score][1301] | DP
 1289 | [Minimum Falling Path Sum II][1289] | DP
 1278 | [Palindrome Partitioning III][1278] *| DP
+1262 | [Greatest Sum Divisible by Three][1262] *| DP, Math
 1223 | [Dice Roll Simulation][1223] *| DP
 1220 | [Count Vowels Permutation][1220] *| DP
 1130 | [Minimum Cost Tree From Leaf Values][1130] *| DP
@@ -68,7 +69,6 @@ In honor of Kobe - Jan 26th, 2020
 1400 | [Construct K Palindrome Strings][1400] *| Math
 1330 | [Reverse Subarray TO Maximize Array Value][1330] *| Math
 1291 | [Sequential Digits][1291] | Math
-1262 | [Greatest Sum Divisible by Three][1262] | Math
 1238 | [Circular Permutation in Binary Representation][1238] | Math
 1201 | [Ugly Number III][1201] *| Math, GCD, LCM
 1175 | [Prime Arrangements][1175] | Math
