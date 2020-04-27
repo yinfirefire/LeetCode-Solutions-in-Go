@@ -6,6 +6,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 
  No. | Name | Type |
 --- | --- | ---
+1420 | [Build Array Where You Can Find The Maximum Exactly K Comparisons][1420] *| DP
 1411 | [Number of Ways to Paint N * 3 Grid][1411] *| DP(State Compression)
 1406 | [Stone Game III][1406] *| DP
 1388 | [Pizza With 3n Slices][1388] *| DP
@@ -350,5 +351,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [1130]: ./Problems/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values/
 [498]: ./Problems/498.%20Diagonal%20Traversal/
 [1424]: ./Problems/1424.%20Diagonal%20Traversal%20II/
+[1420]: ./Problems/1420.%20Build%20Array%20Where%20You%20Can%20FInd%20the%20Maximum%20Exactly%20K%20Comparisons/
 
 * Nice Question
