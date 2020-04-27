@@ -2,16 +2,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Go](https://img.shields.io/badge/Go-1.12-blue.svg)](https://golang.org)
 
-Update at least one problem each day from [Daily Problems](https://docs.google.com/spreadsheets/d/1kBGyRsSdbGDu7DzjQcC-UkZjZERdrP8-_QyVGXHSrB8/edit#gid=0).
-
 Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.html) if you are interested in daily problems and LeetCode Weekly Contest.
-
-
-<p align="center">
-  <img  src="kobe.png">
-</p>
-
-In honor of Kobe - Jan 26th, 2020
 
  No. | Name | Type |
 --- | --- | ---
@@ -132,6 +123,7 @@ In honor of Kobe - Jan 26th, 2020
 913 | [Cat and Mouses][913] *| BFS
 864 | [Shortest Path to Get All Keys][864] *| BFS
 847 | [Shortest Path Visiting All Nodes][847] *| BFS
+498 | [Diagonal Traversal][498] | BFS
 130 | [Surrounded Regions][130] | BFS
 127 | [Word Ladder][127] | BFS
 126 | [Word Ladder II][126] *| BFS
@@ -355,5 +347,6 @@ In honor of Kobe - Jan 26th, 2020
 [375]: ./Problems/375.%20Guess%20Number%20Higher%20or%20Lower%20II/
 [935]: ./Problems/935.%20Knight%20Dialer/
 [1130]: ./Problems/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values/
+[498]: ./Problems/498.%20Diagonal%20Traversal/
 
 * Nice Question
