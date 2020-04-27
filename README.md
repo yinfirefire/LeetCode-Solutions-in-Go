@@ -123,6 +123,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 913 | [Cat and Mouses][913] *| BFS
 864 | [Shortest Path to Get All Keys][864] *| BFS
 847 | [Shortest Path Visiting All Nodes][847] *| BFS
+1424 | [Diagonal Traversal II][1424] | BFS
 498 | [Diagonal Traversal][498] | BFS
 130 | [Surrounded Regions][130] | BFS
 127 | [Word Ladder][127] | BFS
@@ -348,5 +349,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [935]: ./Problems/935.%20Knight%20Dialer/
 [1130]: ./Problems/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values/
 [498]: ./Problems/498.%20Diagonal%20Traversal/
+[1424]: ./Problems/1424.%20Diagonal%20Traversal%20II/
 
 * Nice Question
