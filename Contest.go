@@ -1,45 +1,46 @@
 package main
 
-func findDiagonalOrder(nums [][]int) []int {
-	m := len(nums)
-	total := 0
-	for i := range nums {
-		total += len(nums[i])
-	}
-	res := make([]int, total)
-	cur := 0
-	x := 0
-	y := 0
-	maxL := len(nums[0])
-	maxP := 0
-	app := maxL - (m - maxP)
+type Node struct {
+	val  int
+	Next *Node
+	Prev *Node
+}
 
-	for i := 0; i < m; i++ {
-		x = i
-		y = 0
-		app = max(app, len(nums[i])-(m-i))
-		for j := 0; j < i+1; j++ {
-			nx := x - j
-			ny := y + j
-			if len(nums[nx]) > ny {
-				res[cur] = nums[nx][ny]
-				cur++
-			}
-		}
+type FirstUnique struct {
+	mp   map[int]*Node
+	head *Node
+	tail *Node
+}
+
+func Constructor(nums []int) FirstUnique {
+	temp := &Node{-1, nil, nil}
+	fq := FirstUnique{map[int](*Node){}, temp, temp}
+	for _, v := range nums {
+		fq.Add(v)
 	}
-	for i := 0; i < app; i++ {
-		x = m - 1
-		y = i + 1
-		for j := 0; x-j >= 0; j++ {
-			nx := x - j
-			ny := y + j
-			if len(nums[nx]) > ny {
-				res[cur] = nums[nx][ny]
-				cur++
-			}
-		}
+	return fq
+}
+
+func (this *FirstUnique) ShowFirstUnique() int {
+	if this.head.Next != nil {
+		return this.head.Next.val
+	} else {
+		return -1
 	}
-	return res
+}
+
+func (this *FirstUnique) Add(value int) {
+	if _, ok := this.mp[value]; ok {
+		td := this.mp[value]
+		td.Prev.Next = td.Next
+		td.Next.Prev = td.Prev
+		delete(this.mp, value)
+	} else {
+		cur := &Node{value, nil, nil}
+		this.tail.Next = cur
+		cur.Prev = this.tail
+		this.tail = this.tail.Next
+	}
 }
 
 func main() {

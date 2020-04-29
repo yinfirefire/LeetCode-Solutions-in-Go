@@ -20,6 +20,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 1301 | [Number of Paths with Max Score][1301] | DP
 1289 | [Minimum Falling Path Sum II][1289] | DP
 1278 | [Palindrome Partitioning III][1278] *| DP
+1269 ｜[Number of Ways to Stay in the Same Place After Some Steps][1269] *| DP
 1262 | [Greatest Sum Divisible by Three][1262] *| DP, Math
 1223 | [Dice Roll Simulation][1223] *| DP
 1220 | [Count Vowels Permutation][1220] *| DP
@@ -352,5 +353,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [498]: ./Problems/498.%20Diagonal%20Traversal/
 [1424]: ./Problems/1424.%20Diagonal%20Traversal%20II/
 [1420]: ./Problems/1420.%20Build%20Array%20Where%20You%20Can%20FInd%20the%20Maximum%20Exactly%20K%20Comparisons/
+[1269]: ./Problems/1269.%20Number%20of%20Ways%20to%20Stay%20In%20the%20Same%20Place%20After%20Some%20Steps/
 
 * Nice Question
