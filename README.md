@@ -151,6 +151,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 927 | [Three Equal Parts][927] | Greedy
 861 | [Score After Flipping Matrix][861] | Greedy
 1329 | [Sort the Matrix Diagonally][1329] | Array
+1316 | [Distinct Echo Substrings][1316] *| Array, String
 1253 | [Reconstruct a 2-Row Binary Matrix][1253] | Array
 1314 | [Matrix Block Sum][1314] | Array
 1021 | [Remove Outermost Parentheses][1021] | Array
@@ -354,5 +355,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [1424]: ./Problems/1424.%20Diagonal%20Traversal%20II/
 [1420]: ./Problems/1420.%20Build%20Array%20Where%20You%20Can%20FInd%20the%20Maximum%20Exactly%20K%20Comparisons/
 [1269]: ./Problems/1269.%20Number%20of%20Ways%20to%20Stay%20In%20the%20Same%20Place%20After%20Some%20Steps/
+[1316]: ./Problems/1316.%20Distinct%20Echo%20Substrings/
 
 * Nice Question
