@@ -35,7 +35,9 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 664 | [Strange Printer][664] | DP
 634 | [Find the Derangement of An Array][634] *| DP
 576 | [Out of Boundary Paths][576] | DP
+546 | [Remove Boxes][546] *| DP
 518 | [Coin Change 2][518] *| DP
+514 | [Freedom Trail][514] *| DP
 474 | [Ones and Zeroes][474] *| DP
 375 | [Guess Number Higher or Lower][375] *| DP
 368 | [Largest Divisible Subset][368] | DP
@@ -356,5 +358,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [1420]: ./Problems/1420.%20Build%20Array%20Where%20You%20Can%20FInd%20the%20Maximum%20Exactly%20K%20Comparisons/
 [1269]: ./Problems/1269.%20Number%20of%20Ways%20to%20Stay%20In%20the%20Same%20Place%20After%20Some%20Steps/
 [1316]: ./Problems/1316.%20Distinct%20Echo%20Substrings/
+[514]: ./Problems/514.%20Freedom%20Trail/
+[546]: ./Problems/546.%20Remove%20Boxes/
 
 * Nice Question
