@@ -165,6 +165,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 1352 | [Product of the Last K Numbers][1352] | Array
 189 | [Rotate Array][189] | Array
 31 | [Next Permutation][31] | Array
+1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit][1438] *| Deque, Sliding Window
 1358 | [Number of Substrings Containing All Three Characters][1358] | Sliding Window
 1297 | [Maximum Number of Occurrences of a Substring][1297] | Sliding Window
 1151 | [Minimum Swaps to Group All 1's Together][1151] | Sliding Window
@@ -360,5 +361,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [1316]: ./Problems/1316.%20Distinct%20Echo%20Substrings/
 [514]: ./Problems/514.%20Freedom%20Trail/
 [546]: ./Problems/546.%20Remove%20Boxes/
+[1438]: ./Problems/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/
 
 * Nice Question
