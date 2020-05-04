@@ -159,6 +159,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 1021 | [Remove Outermost Parentheses][1021] | Array
 910 | [Smallest Range II][910] | Array
 128 | [Longest Consecutive Sequence][128] *| Array
+1419 | [Minimum Number of Frogs Croaking][1419] | String
 1328 | [Break a Palindrome][1328] | String
 567 | [Permutation in String][567] | String
 678 | [Valid Parenthesis String][678] | String
@@ -362,5 +363,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [514]: ./Problems/514.%20Freedom%20Trail/
 [546]: ./Problems/546.%20Remove%20Boxes/
 [1438]: ./Problems/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/
+[1419]: ./Problems/1419.%20Minimu%20Number%20of%20Frogs%20Croaking/
 
 * Nice Question
