@@ -6,6 +6,7 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 
  No. | Name | Type |
 --- | --- | ---
+1434 | [Number of Ways to Wear Different Hats to Each Other][1434] *| DP
 1420 | [Build Array Where You Can Find The Maximum Exactly K Comparisons][1420] *| DP
 1411 | [Number of Ways to Paint N * 3 Grid][1411] *| DP(State Compression)
 1406 | [Stone Game III][1406] *| DP
@@ -364,5 +365,6 @@ Please see our [Wechat Group](https://wisdompeak.github.io/lc-score-board/rules.
 [546]: ./Problems/546.%20Remove%20Boxes/
 [1438]: ./Problems/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/
 [1419]: ./Problems/1419.%20Minimu%20Number%20of%20Frogs%20Croaking/
+[1434]: ./Problems/1434.%20Number%20of%20Ways%20to%20Wear%20Different%20Hats%20to%20Each%20Other%20/
 
 * Nice Question
